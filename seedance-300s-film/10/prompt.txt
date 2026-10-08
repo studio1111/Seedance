@@ -1,15 +1,39 @@
 SEEDANCE 2.5 — VIDEO 10 — 30 SECONDS — FINAL
 
-PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+REFERENCE DECLARATION:
+Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 09. Same cup, same home/building entrance, same Tehran daylight.
 
-START EXACTLY from the actual final frame of Video 09. Use `sakhi.Refernce.jpg` as the absolute child identity reference. Same child reference, exact one-year-old child, identical face/body/gray clothing. Same panda, same ice cream, same Tehran neighborhood and sunlight.
+GLOBAL STYLE:
+Photorealistic cinematic family-comedy finale, 24fps, 16:9, warm natural daylight, restrained camera movement, realistic depth of field.
 
-ACTION: Child continues toward home, happily eating ice cream. Panda follows at respectful distance. Child reaches the entrance of the same home/building established by the route and turns around. Panda stops. Child raises the ice-cream cup slightly toward panda as a humorous peace gesture. Panda smiles. Child takes one final happy bite. Panda gives a small playful wave. Child turns and moves toward home.
+SCENE / INTENTION:
+The chase ends at home with a small physical gesture of reconciliation. The final image should feel earned, calm and continuous with the previous nine parts.
 
-FINAL SHOT: Camera slowly pulls back and rises slightly, keeping child and panda together in the same quiet Tehran street. Warm sunlight, consistent architecture, realistic materials and cinematic depth of field. Child continues toward home while panda walks behind. End on a cheerful satisfying image confirming the complete 300-second comedic chase story.
+FIRST FRAME + BLOCKING:
+Child is already moving toward the established home/building entrance. Panda follows several steps behind. Preserve the exact screen direction from Part 09.
 
-MUSIC: Full cheerful finale version of the same musical theme, playful orchestration, warm ending cadence and realistic Tehran ambience.
+SHOT-BY-SHOT:
+0-5s, rear tracking: child moves toward the entrance while eating. Panda follows at a relaxed pace, no longer chasing.
+5-10s, medium front reveal: child reaches the entrance, stops and turns back. Panda stops at a respectful distance.
+10-15s, medium two-shot: child raises the ice-cream cup slightly toward panda as a playful peace gesture. Panda tilts its head, then gives a small paw wave. Keep the plush face physically unchanged.
+15-20s, close child shot: child takes one final happy bite, lowers the cup and looks toward the doorway.
+20-25s, wide: child turns and moves into the home/building entrance. Panda remains outside, then takes a few calm steps forward.
+25-30s, slow pull-back and slight rise: camera widens to show the familiar street, entrance, child and panda together. Hold the final composition long enough to read as a conclusion.
 
-NEGATIVE: No character redesign, age change, clothing change, new people, extra panda, duplicate ice cream, random text, logos, cartoon rendering, environment/weather changes.
+CAMERA / OPTICS:
+Rear tracking, medium reveal, restrained two-shot, close-up only for the final bite, then slow pull-back. No sudden crane or drone movement.
 
-PRODUCTION FRAME RULE: Part 10 is the final part. Start from the real final frame of Part 9. Do not assume or pre-create a future Part 10 start frame.
+PHYSICS / CONTACT:
+Child remains age-appropriate. Panda's wave is a simple paw lift, not a magical facial animation. Cup stays in the child's hand. No object duplication.
+
+LIGHTING:
+Same sun direction and daytime continuity from Part 09. Warm but physically motivated natural light.
+
+AUDIO:
+Full cheerful finale of the established musical theme, soft residential ambience, subtle plush steps, doorway movement and a gentle final musical cadence. No dialogue.
+
+FINAL HANDOFF / END:
+This is the final part. Do not create a fictional future frame. End on the generated final composition.
+
+NEGATIVE:
+No character redesign, age change, wardrobe change, extra people, extra panda, duplicate ice cream, real animal panda, magical facial morphing, text, logos, cartoon rendering, weather/time change, teleportation.
