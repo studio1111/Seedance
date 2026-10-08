@@ -1,6 +1,6 @@
 SEEDANCE 2.5 — VIDEO 03 — 30 SECONDS
 
-START EXACTLY from Video 02. Same child reference image `child-reference/sakhi.Refernce.jpg`, panda, ice cream, Tehran neighborhood, sunlight and visual design.
+START EXACTLY from the actual final frame of Video 02. Same child reference image `sakhi.Refernce.jpg`, panda, ice cream, Tehran neighborhood, sunlight and visual design.
 
 ACTION: Panda reaches parked cars and uses them as an escape route. It jumps onto the first hood, runs across the roof, jumps to the next vehicle and briefly loses balance because of its oversized belly, then recovers while protecting the ice cream. Child reaches the cars but cannot climb efficiently due to being one year old, so crawls around them at surprising speed. Panda repeatedly looks back in disbelief. Panda reaches a low concrete wall and climbs over it toward a building entrance. Child reaches the same wall, attempts to climb using hands and knees, slips slightly but remains safe, finds the opening around the wall and continues. Panda races up a rooftop staircase. Child arrives seconds later and begins climbing.
 
@@ -11,3 +11,5 @@ CAMERA: Dynamic low-angle car tracking, controlled crane reveal of wall/staircas
 AUDIO: Continuous energetic comedy-action score, realistic car and foot sounds, rooftop wind.
 
 NEGATIVE: No new characters, identity drift, wardrobe/prop changes, architecture changes, impossible jumps or flying, cartoon rendering.
+
+PRODUCTION FRAME RULE: After Part 3 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 4.
