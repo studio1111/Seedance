@@ -1,5 +1,7 @@
 SEEDANCE 2.5 — VIDEO 08 — 30 SECONDS
 
+PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+
 START EXACTLY from the actual final frame of Video 07. Keep `sakhi.Refernce.jpg` as the absolute child identity reference.
 
 ACTION: Panda runs through the same quiet Tehran street. Child crawls after it with comic determination. Panda performs harmless evasive maneuvers around the same parked car, beneath a low barrier and around a corner. Child takes efficient crawling shortcuts. Panda slows because it is tired, looks back and sees child getting closer. Panda reaches a small open intersection near the child's home area. Child catches up enough that panda accidentally drops the ice-cream lid. Child notices it. Panda stops and looks guilty.
