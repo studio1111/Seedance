@@ -1,5 +1,7 @@
 SEEDANCE 2.5 — VIDEO 01 — 30 SECONDS
 
+PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+
 CONTINUITY: Part 1 of one 300-second photorealistic cinematic comedy-action film. Use sakhi.Refernce.jpg as the absolute child identity anchor. The child is exactly one one-year-old child with identical face, hair, skin tone, body proportions, height, apparent age, gray one-piece outfit and gray socks in every part. Never redesign or restyle the child.
 
 PANDA: One single fat plush panda, approximately the child's height but much wider and heavier, soft black-and-white plush fur, large round belly, identical face and proportions in every part.
