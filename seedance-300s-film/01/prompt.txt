@@ -1,23 +1,42 @@
 SEEDANCE 2.5 — VIDEO 01 — 30 SECONDS
 
-PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+REFERENCE DECLARATION:
+Child reference: sakhi.Refernce.jpg. Preserve the exact one-year-old child, face, hair, skin, body proportions, apparent age, gray one-piece outfit and gray socks.
+Panda reference: panda-reference.png. One single plush panda, approximately child height but much wider, soft black-and-white plush, large round belly, short padded limbs.
+Prop: one small ice-cream cup, one lid, unchanged for the entire film.
+Environment: the canonical quiet Tehran residential neighborhood from environment-references/environment-design.md.
 
-CONTINUITY: Part 1 of one 300-second photorealistic cinematic comedy-action film. Use sakhi.Refernce.jpg as the absolute child identity anchor. The child is exactly one one-year-old child with identical face, hair, skin tone, body proportions, height, apparent age, gray one-piece outfit and gray socks in every part. Never redesign or restyle the child.
+GLOBAL STYLE:
+Photorealistic live-action comedy-action cinema, grounded practical realism, 24fps, 16:9, 24-35mm lens family, natural motion blur, realistic materials, no glossy CGI look. Sunny daytime with one consistent sun direction.
 
-PANDA: One single fat plush panda, approximately the child's height but much wider and heavier, soft black-and-white plush fur, large round belly, identical face and proportions in every part.
+SCENE / INTENTION:
+A peaceful moment becomes a playful chase when the plush panda steals the child's ice cream. The comedy comes from timing, hesitation, acceleration and believable weight.
 
-PROP: One small cup of ice cream with exactly the same cup, lid, color and contents throughout.
+FIRST FRAME + BLOCKING:
+Start with the child already seated on the same quiet sidewalk, ice-cream cup held between both hands. Panda is hidden behind the established parked car, out of frame. Camera is low at child height.
 
-WORLD: Quiet realistic Tehran residential neighborhood, same architecture, streets, sidewalks, walls, parked cars and sunny daytime throughout. Photorealistic, natural physics, cinematic 24–35mm lens family.
+SHOT-BY-SHOT:
+0-5s, close low shot: child rotates the cup, tries the lid with both hands, pulls, pauses, tries again. Fingers slip slightly. The cup stays firmly in the child's hands.
+5-10s, medium tracking: lid loosens. Child looks down, then smiles at the opened cup. Panda slowly peeks from behind the parked car, eyes fixed on the ice cream.
+10-15s, over-shoulder: panda pads closer in short quick steps, pauses when the child looks up, then waits for the child's attention to return to the cup.
+15-20s, lateral tracking: panda reaches in, grips the cup with both padded paws, pulls once. Child resists for a beat. Panda wins the tug and retreats with the cup.
+20-25s, low pursuit: panda turns and accelerates down the sidewalk. Its plush belly lags and bounces with each step. Child looks shocked, plants both hands and knees, then launches into a fast crawl.
+25-30s, wide rear tracking: panda moves away holding the cup, child follows directly behind. The sidewalk, parked car and street geometry remain visible and stable.
 
-ACTION: Low child-height tracking shot follows the child along a quiet Tehran sidewalk holding the ice-cream cup. The child sits and humorously struggles to open the lid. After several attempts the lid loosens and the child smiles. The fat plush panda appears from behind the same parked car, notices the ice cream, sneaks closer, suddenly grabs the cup and runs. The child freezes in disbelief, becomes comically angry and immediately starts a very fast crawl after the panda.
+CAMERA / OPTICS:
+Low child-height tracking; close-up only for the lid and handoff; lateral move during the theft; final camera tracks backward with the chase. Every camera move has a clear endpoint.
 
-HANDOFF: Final frame shows panda running away down the same sidewalk holding the ice cream while the child begins the chase directly behind it. Video 02 starts from this exact frame.
+PHYSICS / CONTACT:
+Child has realistic one-year-old balance and hand coordination. Panda has plush compression and inertia. The cup never floats or duplicates. Feet, knees and hands visibly contact the ground.
 
-CAMERA: Low tracking, close-ups of hands and ice cream, quick lateral tracking at theft, low wide pursuit ending.
+LIGHTING:
+Natural sunny daylight, consistent soft-edged shadows from the same sun direction. No exposure jump.
 
-AUDIO: Happy energetic comedic orchestral music, playful percussion/brass, realistic Tehran ambience, baby movement sounds and plush footsteps. No dialogue.
+AUDIO:
+Native audio: cheerful original orchestral comedy theme, light percussion and brass, Tehran residential ambience, cup/lid handling, soft plush footsteps, child movement sounds. No dialogue.
 
-NEGATIVE: No identity drift, wardrobe change, extra characters, extra panda, extra ice cream, random text, logos, cartoon look, distorted anatomy, floating objects, teleportation or lighting/weather/time change.
+HANDOFF:
+Final frame holds panda several meters ahead moving away with the cup while the child is beginning the chase. This actual generated final frame becomes Part 02's start frame.
 
-PRODUCTION FRAME RULE: Part 1 has no previous video frame. Start from the fixed character and environment references. After Part 1 is generated, extract its actual final frame and use it as the opening reference for Part 2.
+NEGATIVE:
+No extra child, no extra panda, no duplicate ice cream, no real animal panda, no age change, no wardrobe change, no running child, no teleportation, no floating props, no text, no logos, no cartoon look, no weather/time change.
