@@ -1,6 +1,6 @@
 SEEDANCE 2.5 — VIDEO 10 — 30 SECONDS — FINAL
 
-START EXACTLY from Video 09 final frame. Same child reference, exact one-year-old child, identical face/body/gray clothing. Same panda, same ice cream, same Tehran neighborhood and sunlight.
+START EXACTLY from Video 09 final frame. Use `child-reference/sakhi.Refernce.jpg` as the absolute child identity reference. Same child reference, exact one-year-old child, identical face/body/gray clothing. Same panda, same ice cream, same Tehran neighborhood and sunlight.
 
 ACTION: Child continues toward home, happily eating ice cream. Panda follows at respectful distance. Child reaches the entrance of the same home/building established by the route and turns around. Panda stops. Child raises the ice-cream cup slightly toward panda as a humorous peace gesture. Panda smiles. Child takes one final happy bite. Panda gives a small playful wave. Child turns and moves toward home.
 
