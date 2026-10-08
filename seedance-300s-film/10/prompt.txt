@@ -1,6 +1,6 @@
 SEEDANCE 2.5 — VIDEO 10 — 30 SECONDS — FINAL
 
-START EXACTLY from Video 09 final frame. Use `child-reference/sakhi.Refernce.jpg` as the absolute child identity reference. Same child reference, exact one-year-old child, identical face/body/gray clothing. Same panda, same ice cream, same Tehran neighborhood and sunlight.
+START EXACTLY from the actual final frame of Video 09. Use `sakhi.Refernce.jpg` as the absolute child identity reference. Same child reference, exact one-year-old child, identical face/body/gray clothing. Same panda, same ice cream, same Tehran neighborhood and sunlight.
 
 ACTION: Child continues toward home, happily eating ice cream. Panda follows at respectful distance. Child reaches the entrance of the same home/building established by the route and turns around. Panda stops. Child raises the ice-cream cup slightly toward panda as a humorous peace gesture. Panda smiles. Child takes one final happy bite. Panda gives a small playful wave. Child turns and moves toward home.
 
@@ -9,3 +9,5 @@ FINAL SHOT: Camera slowly pulls back and rises slightly, keeping child and panda
 MUSIC: Full cheerful finale version of the same musical theme, playful orchestration, warm ending cadence and realistic Tehran ambience.
 
 NEGATIVE: No character redesign, age change, clothing change, new people, extra panda, duplicate ice cream, random text, logos, cartoon rendering, environment/weather changes.
+
+PRODUCTION FRAME RULE: Part 10 is the final part. Start from the real final frame of Part 9. Do not assume or pre-create a future Part 10 start frame.
