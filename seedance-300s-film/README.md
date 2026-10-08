@@ -3,7 +3,7 @@
 10 videos x 30 seconds = exactly 300 seconds.
 
 REFERENCE:
-The user-provided child image filename is `sakhi.Refernce.jpg`, stored in ``.
+The user-provided child image filename is `sakhi.Refernce.jpg`.
 
 GENERATION ORDER:
 01 through 10, sequentially.
@@ -13,7 +13,7 @@ After each video is generated, extract its actual final frame and use that real 
 
 REFERENCE ASSETS:
 `sakhi.Refernce.jpg` = canonical child identity reference.
-`` = canonical panda design specification.
-`environment-references/` = canonical Tehran environment specification.
+``panda-reference.png` = canonical panda identity reference.
+The Tehran environment specification is documented in `environment-references/environment-design.md`.
 
 The project is designed for Seedance 2.5 and prioritizes identity continuity, environmental continuity, exact scene handoffs and cinematic comedy-action.
