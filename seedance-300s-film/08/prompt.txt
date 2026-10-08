@@ -1,17 +1,39 @@
 SEEDANCE 2.5 — VIDEO 08 — 30 SECONDS
 
-PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+REFERENCE DECLARATION:
+Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 07.
 
-START EXACTLY from the actual final frame of Video 07. Keep `sakhi.Refernce.jpg` as the absolute child identity reference.
+GLOBAL STYLE:
+Photorealistic residential action-comedy, 24fps, 16:9, realistic camera inertia, natural daylight.
 
-ACTION: Panda runs through the same quiet Tehran street. Child crawls after it with comic determination. Panda performs harmless evasive maneuvers around the same parked car, beneath a low barrier and around a corner. Child takes efficient crawling shortcuts. Panda slows because it is tired, looks back and sees child getting closer. Panda reaches a small open intersection near the child's home area. Child catches up enough that panda accidentally drops the ice-cream lid. Child notices it. Panda stops and looks guilty.
+SCENE / INTENTION:
+The final chase is shorter and more emotional. The panda tires, loses the lid, and realizes the game has gone too far.
 
-HANDOFF: Child reaches the dropped lid and picks it up while panda stands a short distance away holding the cup. Both face each other in the same street. Video 09 starts from this exact composition.
+FIRST FRAME + BLOCKING:
+Panda exits the alley ahead. Child exits behind. Preserve exact screen direction.
 
-CAMERA: Smooth lateral tracking, low child-height framing, controlled wide shot at intersection.
+SHOT-BY-SHOT:
+0-5s, low rear tracking: panda runs along the established street. Child crawls after it, gaining slowly.
+5-10s, lateral track: panda goes around the same parked car. Its body leans into the turn, then corrects.
+10-15s, low child follow: child takes the inside line around the car and closes the distance. Hands and knees alternate naturally.
+15-20s, medium front angle: panda reaches the established open intersection, slows from fatigue and looks back. The cup remains in one paw.
+20-25s, close-to-wide: the loose ice-cream lid slips from the cup and falls. It strikes the pavement with a small plastic sound. Panda stops and looks down at it.
+25-30s, wide two-shot: child reaches the lid, picks it up, and faces panda. Panda stays several steps away holding the cup.
 
-AUDIO: Playful chase music gradually slows into a humorous standoff motif.
+CAMERA / OPTICS:
+Low tracking for the chase, one lateral vehicle shot, one front reaction shot, final wide two-shot. Keep both subjects visible at important moments.
 
-NEGATIVE: No new characters, different street, weather/time change, duplicate props or identity drift.
+PHYSICS / CONTACT:
+Panda slows gradually rather than stopping instantly. Lid falls under gravity and bounces once naturally. Child grips it with both hands.
 
-PRODUCTION FRAME RULE: After Part 8 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 9.
+LIGHTING:
+Same sunny intersection, consistent shadows and exposure.
+
+AUDIO:
+Music decelerates into a humorous standoff motif. Lid click, soft foot/paw sounds and neighborhood ambience.
+
+HANDOFF:
+Final frame holds child with the lid and panda with the cup facing each other. Part 09 starts from this exact frame.
+
+NEGATIVE:
+No duplicate lid, no duplicate cup, no extra characters, no sudden emotional morphing, no text, no weather/time change.
