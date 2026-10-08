@@ -1,17 +1,39 @@
 SEEDANCE 2.5 — VIDEO 03 — 30 SECONDS
 
-PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+REFERENCE DECLARATION:
+Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 02. Same ice-cream cup and same neighborhood.
 
-START EXACTLY from the actual final frame of Video 02. Same child reference image `sakhi.Refernce.jpg`, panda, ice cream, Tehran neighborhood, sunlight and visual design.
+GLOBAL STYLE:
+Photorealistic physical comedy-action, realistic weight, 24fps, 16:9, controlled kinetic camera.
 
-ACTION: Panda reaches parked cars and uses them as an escape route. It jumps onto the first hood, runs across the roof, jumps to the next vehicle and briefly loses balance because of its oversized belly, then recovers while protecting the ice cream. Child reaches the cars but cannot climb efficiently due to being one year old, so crawls around them at surprising speed. Panda repeatedly looks back in disbelief. Panda reaches a low concrete wall and climbs over it toward a building entrance. Child reaches the same wall, attempts to climb using hands and knees, slips slightly but remains safe, finds the opening around the wall and continues. Panda races up a rooftop staircase. Child arrives seconds later and begins climbing.
+SCENE / INTENTION:
+The panda uses the environment as an escape route. The child cannot copy every move, so the chase becomes a believable game of route choice.
 
-HANDOFF: Panda reaches the top of the staircase holding the ice cream. Child is halfway up the exact same staircase, looking upward. Video 04 starts here.
+FIRST FRAME + BLOCKING:
+Start exactly where Part 02 ends, preserving screen direction and distance.
 
-CAMERA: Dynamic low-angle car tracking, controlled crane reveal of wall/staircase, close follow behind child.
+SHOT-BY-SHOT:
+0-5s, low forward tracking: panda races between the established parked cars, cup held tight against its chest.
+5-10s, lateral vehicle shot: panda climbs onto one hood, crosses the roof with three quick paw placements, then drops down. Its belly compresses slightly on landing.
+10-15s, low child follow: child reaches the cars, tries the direct route, stops at the bumper, then turns around the front. Hands and knees maintain continuous ground contact.
+15-20s, medium wide: panda reaches the low wall, places both paws on the top edge, pulls its body over, pauses to regain balance, then continues toward the rooftop staircase.
+20-25s, close-to-wide transition: child reaches the same wall, attempts to pull up, slips one hand, sits back safely, spots the opening beside the wall and takes that route instead.
+25-30s, staircase follow: panda climbs the exact rooftop staircase, looking back once. Child enters the bottom of the staircase and begins climbing.
 
-AUDIO: Continuous energetic comedy-action score, realistic car and foot sounds, rooftop wind.
+CAMERA / OPTICS:
+Low tracking for pursuit, lateral vehicle coverage for the panda's car movement, wide reveal for the wall and staircase, close follow behind child on stairs.
 
-NEGATIVE: No new characters, identity drift, wardrobe/prop changes, architecture changes, impossible jumps or flying, cartoon rendering.
+PHYSICS / CONTACT:
+Panda's paws visibly grip surfaces. Body weight shifts before every climb and landing. Child's center of gravity remains low. No flying or impossible jumps.
 
-PRODUCTION FRAME RULE: After Part 3 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 4.
+LIGHTING:
+Same sun direction. Stairwell and rooftop transition retain natural exposure.
+
+AUDIO:
+Music adds playful urgency; paw impacts, fabric/plush sounds, concrete contacts, distant Tehran ambience and light rooftop wind.
+
+HANDOFF:
+Final frame holds panda near the top of the staircase and child partway up, both moving in the same direction. Part 04 starts from this exact frame.
+
+NEGATIVE:
+No extra characters, no impossible climbing, no duplicate props, no environment drift, no cartoon physics, no identity or wardrobe change.
