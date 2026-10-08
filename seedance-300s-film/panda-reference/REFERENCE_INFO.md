@@ -6,11 +6,11 @@ This is the canonical visual reference for the single plush panda used throughou
 
 ## Reference Image
 
-Place the generated panda image in this same folder with the filename:
+Use the image filename:
 
 `panda-reference.png`
 
-If a different filename is used, update this file so every video prompt points to the exact image path.
+The filename is the reference identifier. Do not require or imply any folder path for this image.
 
 ## Character Identity
 
@@ -52,7 +52,7 @@ The panda must never become larger than the child by an implausible amount and m
 
 ## Required Use
 
-Use this image as the **PANDA CHARACTER REFERENCE** in every Seedance 2.5 video prompt.
+Use `panda-reference.png` as the **PANDA CHARACTER REFERENCE** in every Seedance 2.5 video prompt.
 
 The panda is the same physical character from Video 01 through Video 10. It must never be replaced by another panda.
 
@@ -71,8 +71,10 @@ The panda is the same physical character from Video 01 through Video 10. It must
 - No text or logos.
 - No watermark.
 
-## File
+## File Identifier
 
-Canonical image:
+Canonical image filename:
 
-`seedance-300s-film/panda-reference/panda-reference.png`
+`panda-reference.png`
+
+Use the filename only. Do not add a folder or repository path when referring to the reference image.
