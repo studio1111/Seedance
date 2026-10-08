@@ -1,6 +1,6 @@
 SEEDANCE 2.5 — VIDEO 06 — 30 SECONDS
 
-START EXACTLY from Video 05 final frame. Keep `child-reference/sakhi.Refernce.jpg` as the absolute child identity reference.
+START EXACTLY from the actual final frame of Video 05. Keep `sakhi.Refernce.jpg` as the absolute child identity reference.
 
 ACTION: Panda runs to the end of the narrow alley and discovers the concrete wall. It stops, looks left and right, realizes it is trapped, then turns around. Child approaches from the opposite end, furious but comically determined. Panda hides the ice cream behind its back. Child rapidly crawls forward. Panda tries to squeeze past but its oversized plush body gets comically stuck between the narrow walls. Child reaches panda and raises one tiny fist. Brief comedic pause. Child delivers one exaggerated slapstick punch to panda's soft belly. Plush belly compresses. Panda is propelled backward into a weak lightweight wall section. Wall cracks and collapses safely. No injury, blood or gore. Panda lands safely in lightweight rubble, dazed but unharmed. Child retrieves ice cream.
 
@@ -11,3 +11,5 @@ CAMERA: Locked confrontation, controlled push-in for punch, pull-back to wide sh
 AUDIO: Musical climax, soft comedic impact, lightweight wall collapse, cheerful music.
 
 NEGATIVE: No blood, gore, injury, realistic violence, identity drift, wardrobe change, new characters or environment.
+
+PRODUCTION FRAME RULE: After Part 6 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 7.
