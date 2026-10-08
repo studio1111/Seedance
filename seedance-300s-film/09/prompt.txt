@@ -1,6 +1,6 @@
 SEEDANCE 2.5 — VIDEO 09 — 30 SECONDS
 
-START EXACTLY from Video 08 final frame. Keep `child-reference/sakhi.Refernce.jpg` as the absolute child identity reference.
+START EXACTLY from the actual final frame of Video 08. Keep `sakhi.Refernce.jpg` as the absolute child identity reference.
 
 ACTION: Child holds the same ice-cream lid and stares at panda. Panda slowly approaches and offers the cup back. Child accepts it cautiously. Everything becomes calm. Panda gestures toward the child's home as if apologizing. Child smiles. Panda accidentally bumps the same parked vehicle, making a harmless funny sound. Child laughs. Panda becomes embarrassed and sits down. Child takes another bite. The chase is finally over. Child turns toward home and begins moving.
 
@@ -11,3 +11,5 @@ CAMERA: Gentle tracking, medium close-up of happy child, wide rear tracking towa
 AUDIO: Chase music transitions to warm cheerful ending theme.
 
 NEGATIVE: No identity, clothing, panda, prop, environment, weather or lighting changes.
+
+PRODUCTION FRAME RULE: After Part 9 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 10.
