@@ -1,0 +1,528 @@
+SEEDANCE 2.5 - MASTER PROMPT
+300-SECOND CONTINUOUS FILM
+10 VIDEOS x 30 SECONDS = EXACTLY 300 SECONDS
+
+==================================================
+GLOBAL PRODUCTION RULE
+==================================================
+
+Create exactly 10 connected videos.
+Each video must be exactly 30 seconds.
+Total runtime must be exactly 300 seconds.
+
+Generate strictly in this order:
+01 -> 02 -> 03 -> 04 -> 05 -> 06 -> 07 -> 08 -> 09 -> 10
+
+These are ten parts of ONE continuous photorealistic cinematic comedy-action film.
+
+CRITICAL REAL-FRAME HANDOFF:
+Video 01 starts from the canonical character references and environment specification.
+
+After Video 01 is actually generated:
+1. Extract its REAL final frame.
+2. Use that exact real final frame as the opening/start-frame reference for Video 02.
+
+Repeat after every video:
+current video -> extract actual final frame -> use it as next video's opening frame.
+
+Never invent, simulate, pre-create, or assume a future frame.
+Never use a written description as a substitute for the actual previous final frame.
+
+The previous final frame controls immediate pose, position, camera relationship, lighting and spatial continuity.
+The canonical character references remain active to prevent identity drift.
+
+==================================================
+CHARACTER REFERENCES
+==================================================
+
+CHILD:
+Use the exact child in sakhi.Refernce.jpg in ALL 10 videos.
+
+The child is exactly ONE ONE-YEAR-OLD CHILD.
+
+Preserve exactly:
+- face and identity
+- eyes
+- hair
+- skin tone
+- body proportions
+- height and scale
+- apparent age
+- gray one-piece outfit
+- gray socks
+- natural one-year-old physical development
+
+The child primarily crawls on hands and knees.
+Brief unstable walking attempts are allowed.
+The child must never suddenly walk or run like an older child.
+
+PANDA:
+Use panda-reference.png in ALL 10 videos.
+
+There is exactly ONE physical plush panda toy.
+It is NOT a real panda.
+
+Preserve exactly:
+- same face
+- same black-and-white markings
+- same ears
+- same eyes
+- same plush material
+- same body proportions
+- approximately the child's height
+- substantially wider and fatter than the child
+- same large soft round belly
+- same short padded limbs
+
+Never create a second panda.
+
+ICE CREAM:
+There is exactly ONE ice-cream cup.
+Keep the same cup, lid, appearance, scale and contents throughout.
+Never duplicate it.
+
+==================================================
+ENVIRONMENT
+==================================================
+
+All 10 videos take place in ONE coherent quiet residential neighborhood in Tehran, Iran, during the SAME sunny daytime period.
+
+Use environment-references/environment-design.md as the canonical environment reference.
+
+Preserve:
+- same neighborhood
+- same architecture
+- same streets and sidewalks
+- same parked vehicles when reused
+- same walls
+- same rooftop
+- same staircase
+- same alley geometry
+- same dead-end
+- same open intersection
+- same home/building entrance
+- same sun direction
+- same weather
+- same approximate time of day
+
+Environment sequence:
+01 Main Residential Street
+02 Side Street
+03 Vehicle Route + Low Wall + Rooftop Staircase
+04 Flat Rooftop
+05 Street-Level Descent + Narrow Alley
+06 Dead-End Alley
+07 Same Alley returning toward Street
+08 Open Residential Intersection
+09 Intersection toward Home
+10 Home/Building Entrance
+
+No teleportation or unexplained location jumps.
+
+==================================================
+VISUAL STYLE
+==================================================
+
+Photorealistic cinematic comedy-action.
+Natural skin and realistic plush fibers.
+Believable physics.
+Natural shadows and reflections.
+24-35mm cinematic lens family.
+Controlled dynamic camera movement.
+Consistent exposure and color grade.
+No cartoon or fantasy rendering.
+
+==================================================
+AUDIO
+==================================================
+
+One continuous musical identity:
+- energetic happy comedic orchestral music
+- playful percussion and brass
+- faster chase rhythm during pursuit
+- softer comedic tension during confrontation
+- warm cheerful finale
+
+Add realistic Tehran residential ambience and appropriate movement, vehicle and plush sounds.
+
+NO DIALOGUE.
+
+==================================================
+VIDEO 01 - THEFT - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 01 - Main Residential Street.
+
+START:
+No previous video frame.
+Use sakhi.Refernce.jpg, panda-reference.png and the canonical environment reference.
+
+ACTION:
+Child is in the quiet Tehran residential street holding the single ice-cream cup.
+Child struggles humorously to open the lid with realistic small hand movements.
+The lid finally loosens.
+
+The single fat plush panda appears from behind the established parked car.
+It notices the ice cream, approaches playfully, suddenly takes the cup and runs.
+
+Child freezes in disbelief, becomes comically determined and immediately begins a very fast crawl after the panda.
+
+CAMERA:
+Low child-height tracking.
+Close-ups of hands and ice cream.
+Quick lateral movement during theft.
+Low wide pursuit ending.
+
+END STATE:
+Panda runs away down the same sidewalk holding the ice cream.
+Child begins the chase directly behind it.
+
+HANDOFF:
+After generating Video 01, extract its REAL final frame.
+Use that frame as the opening frame of Video 02.
+
+==================================================
+VIDEO 02 - STREET CHASE - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 02 - Side Street, directly connected to Location 01.
+
+START:
+Exactly from the REAL final frame of Video 01.
+
+ACTION:
+Panda runs with the ice cream and looks backward.
+Child crawls extremely fast.
+Child briefly tries to stand, takes two unstable baby steps, nearly falls safely, then returns to crawling.
+
+Panda zigzags around the same parked cars.
+It jumps onto the hood and roof of one established vehicle, crosses it and drops down.
+Child reaches the vehicle, looks up, then safely crawls around it.
+
+Panda sees the child unexpectedly close and accelerates toward the connected side street.
+
+END STATE:
+Panda enters the side street first.
+Child follows in exactly the same direction.
+
+HANDOFF:
+Extract the REAL final frame and use it as the opening frame of Video 03.
+
+==================================================
+VIDEO 03 - VEHICLES, WALL AND STAIRCASE - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 03 - Vehicle Route and Low Wall.
+Then Location 04 - Rooftop Staircase.
+
+START:
+Exactly from the REAL final frame of Video 02.
+
+ACTION:
+Panda uses the established parked cars as an escape route.
+It jumps onto a hood, crosses a roof, jumps to the next vehicle and briefly loses balance because of its oversized plush belly, then recovers while protecting the ice cream.
+
+Child cannot climb the cars efficiently because of age, so crawls around them at surprising speed.
+
+Panda reaches the established low wall and climbs over it toward the building entrance.
+Child reaches the same wall, attempts to climb using hands and knees, slips slightly but remains safe, finds the practical opening and continues.
+
+Panda races up the established rooftop staircase.
+Child arrives seconds later and begins climbing.
+
+END STATE:
+Panda reaches the top holding the ice cream.
+Child is halfway up the same staircase.
+
+HANDOFF:
+Extract the REAL final frame and use it as the opening frame of Video 04.
+
+==================================================
+VIDEO 04 - ROOFTOP CHASE - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 05 - Flat Rooftop, directly connected to Location 04.
+
+START:
+Exactly from the REAL final frame of Video 03.
+
+ACTION:
+Panda bursts onto the flat rooftop and runs.
+Child reaches the rooftop and crawls after it at believable baby speed.
+
+Use established:
+- low concrete parapets
+- ventilation equipment
+- pipes
+- rooftop water tanks
+- connected roof sections
+
+Panda circles the water tank, looks back, sees the child close and accelerates.
+
+Panda crosses to another connected roof section using a safe narrow connection.
+Child takes the lower safe route and unexpectedly appears ahead.
+
+Panda turns toward the rooftop edge and climbs down toward the established parked vehicle below.
+
+END STATE:
+Panda lands safely on the roof of the same parked vehicle.
+Child reaches the rooftop edge and looks down.
+
+HANDOFF:
+Extract the REAL final frame and use it as the opening frame of Video 05.
+
+==================================================
+VIDEO 05 - DESCENT AND DEAD-END ALLEY - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 06 - Street-Level Descent.
+Then Location 07 - Narrow Residential Alley.
+
+START:
+Exactly from the REAL final frame of Video 04.
+
+ACTION:
+Panda climbs from the same vehicle roof to the sidewalk and runs.
+Child uses the safe building route and reaches street level.
+
+Panda hides behind the same parked vehicle, peeks out, sees the child and runs.
+It accidentally crashes into a small stack of empty cardboard boxes.
+The boxes collapse harmlessly.
+
+Panda continues holding the ice cream.
+The child catches up slightly.
+Panda turns into the established narrow alley.
+The alley becomes progressively narrower.
+Panda accelerates without realizing the route ends.
+
+END STATE:
+Panda enters the established dead-end alley.
+Child enters immediately behind.
+
+HANDOFF:
+Extract the REAL final frame and use it as the opening frame of Video 06.
+
+==================================================
+VIDEO 06 - DEAD-END CONFRONTATION - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 08 - Dead-End Alley.
+
+START:
+Exactly from the REAL final frame of Video 05.
+
+ACTION:
+Panda reaches the dead-end wall, realizes it is trapped and turns around.
+Child approaches, furious but comically determined.
+Panda hides the ice cream behind its back.
+
+Panda tries to squeeze past but its oversized plush body gets comically stuck.
+Child reaches panda and raises one tiny fist.
+Brief comedic pause.
+
+Child gives ONE exaggerated slapstick punch to the panda's soft plush belly.
+The plush belly compresses.
+
+Panda is propelled backward into a clearly lightweight, temporary, non-load-bearing wall section.
+That weak section cracks and collapses safely.
+
+No injury, blood or gore.
+Panda lands safely in lightweight rubble, dazed but unharmed.
+Child retrieves the ice cream.
+
+END STATE:
+Child sits safely and begins eating.
+Panda remains safely visible in the rubble.
+
+HANDOFF:
+Extract the REAL final frame and use it as the opening frame of Video 07.
+
+==================================================
+VIDEO 07 - SECOND ACCIDENTAL CHASE - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 08 continuing into Location 07 and back toward Location 09.
+
+START:
+Exactly from the REAL final frame of Video 06.
+
+ACTION:
+Child takes a happy bite.
+Panda notices the ice cream and slowly reaches toward it.
+Child pulls the cup away.
+
+Panda looks embarrassed and gestures toward the child's home direction.
+A loose cardboard piece harmlessly falls from the rubble and startles panda.
+Panda accidentally rolls backward, stands up and runs away again.
+
+Child assumes panda is trying to steal the ice cream again and immediately resumes the chase.
+Panda runs out of the alley toward the same street.
+Child follows.
+
+END STATE:
+Panda and child exit the alley into the same street.
+Panda is several meters ahead.
+Child rapidly crawls behind.
+
+HANDOFF:
+Extract the REAL final frame and use it as the opening frame of Video 08.
+
+==================================================
+VIDEO 08 - FINAL PURSUIT AND LID RECOVERY - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 09 - Open Residential Intersection.
+
+START:
+Exactly from the REAL final frame of Video 07.
+
+ACTION:
+Panda continues through the same quiet Tehran street.
+Child crawls after it.
+
+Panda makes harmless evasive movements around the same parked car and established street obstacles.
+Child uses efficient crawling shortcuts.
+
+Panda becomes tired and slows down.
+It reaches the small open intersection near the child's home area.
+The child catches up.
+Panda accidentally drops the ice-cream lid.
+
+Child notices and picks up the lid.
+Panda stops and looks guilty while still holding the cup.
+
+END STATE:
+Child holds the dropped lid.
+Panda holds the cup.
+They face each other in the same street.
+
+HANDOFF:
+Extract the REAL final frame and use it as the opening frame of Video 09.
+
+==================================================
+VIDEO 09 - RECONCILIATION - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 09 continuing toward Location 10.
+
+START:
+Exactly from the REAL final frame of Video 08.
+
+ACTION:
+Child holds the same lid and looks at panda.
+Panda slowly approaches and offers the cup back.
+Child cautiously accepts it.
+
+The chase ends.
+Panda makes a simple physical apologetic gesture toward the child's home direction.
+Child smiles.
+
+Panda accidentally bumps the same parked vehicle, making a harmless funny sound.
+Child laughs.
+Panda sits down, embarrassed.
+Child takes another bite.
+
+Child turns toward home and begins moving.
+
+END STATE:
+Child moves happily toward home with the ice cream.
+Panda follows several steps behind as a friendly companion.
+
+HANDOFF:
+Extract the REAL final frame and use it as the opening frame of Video 10.
+
+==================================================
+VIDEO 10 - HOME AND FINAL IMAGE - 30 SECONDS
+==================================================
+
+ENVIRONMENT:
+Location 10 - Home/Building Entrance.
+
+START:
+Exactly from the REAL final frame of Video 09.
+
+ACTION:
+Child continues toward home eating the ice cream.
+Panda follows at a respectful distance.
+
+Child reaches the established home/building entrance and turns around.
+Panda stops.
+
+Child raises the ice-cream cup slightly toward panda as a humorous peace gesture.
+Panda responds with a small physical friendly gesture, such as a gentle head tilt or tiny wave.
+Do not morph the plush face.
+
+Child takes one final happy bite.
+Child turns and moves toward home.
+
+CAMERA:
+Slow pull-back and slight rise, keeping child and panda together in the same quiet Tehran street.
+
+END:
+Warm, cheerful, satisfying cinematic image confirming the complete 300-second story.
+
+Video 10 is final. No future frame is required.
+
+==================================================
+GLOBAL NEGATIVE PROMPT
+==================================================
+
+Never generate:
+- identity drift
+- child age drift
+- child body or height drift
+- wardrobe drift
+- hairstyle drift
+- skin-tone drift
+- second child
+- second panda
+- real panda
+- duplicate ice cream
+- duplicate props
+- random pedestrians
+- random animals
+- random traffic
+- logos
+- watermarks
+- readable generated text
+- cartoon transformation
+- fantasy architecture
+- impossible physics
+- teleportation
+- unexplained location jumps
+- time-of-day jumps
+- weather changes
+- season changes
+- night or sunset
+- graphic violence
+- blood or gore
+- injuries to child or panda
+- contradictory camera geography
+- redesigned rooftops, streets, walls, vehicles or home entrance
+
+==================================================
+FINAL CHECK
+==================================================
+
+10 videos x 30 seconds = exactly 300 seconds.
+
+All ten videos must feel like one continuous film.
+
+Video 01 starts from canonical references.
+Every Video 02-10 starts from the ACTUAL FINAL FRAME of the immediately previous generated video.
+
+Canonical child reference: sakhi.Refernce.jpg
+Canonical panda reference: panda-reference.png
+Canonical environment reference: environment-references/environment-design.md
+Character detail files:
+- child-reference/REFERENCE_INFO.md
+- panda-reference/REFERENCE_INFO.md
