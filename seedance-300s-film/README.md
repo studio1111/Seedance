@@ -4,7 +4,7 @@
 
 ## Master Prompt
 
-The complete unified production instruction is in `MASTER_PROMPT.md`. It contains the global continuity rules and the full definition of all ten 30-second parts.
+The complete unified production instructions are in `MASTER_PROMPT.md` and `MASTER_PROMPT.txt`. Both contain the global continuity rules and the full definition of all ten 30-second parts. `MASTER_PROMPT.txt` is the plain-text version for direct copy/paste into a video-generation workflow.
 
 ## Reference Assets
 
