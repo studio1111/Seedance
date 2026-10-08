@@ -3,7 +3,7 @@
 10 parts x 30 seconds = 300 seconds.
 
 CHILD IDENTITY:
-Use the child reference image file `child-reference/sakhi.Refernce.jpg` as the absolute identity anchor in every generation. Preserve exactly the same one-year-old child: face, eyes, hair, skin tone, body proportions, height, apparent age, gray one-piece outfit and gray socks. Never reinterpret the reference.
+Use the child reference image file `sakhi.Refernce.jpg` as the absolute identity anchor in every generation. For Parts 2-10, also use the actual final frame of the immediately previous generated video as the opening continuity frame. Preserve exactly the same one-year-old child: face, eyes, hair, skin tone, body proportions, height, apparent age, gray one-piece outfit and gray socks. Never reinterpret the reference.
 
 PANDA:
 One single fat plush panda, approximately the child's height but much wider, with soft black-and-white plush fur, large round belly, identical face and proportions in every shot.
@@ -34,3 +34,7 @@ Every final frame is the exact starting state for the next part. If Seedance sup
 
 HARD NEGATIVES:
 No identity drift, wardrobe drift, age drift, scale drift, duplicate characters, duplicate ice cream, random people/animals/vehicles, logos, readable generated text, cartoon transformation, sudden weather/time change, teleportation, impossible physics or graphic violence.
+
+## Real-Frame Production Rule
+
+No future start or end frame is assumed before a video is generated. Part 1 starts from the fixed character and environment references. After each part is actually generated, its real final frame becomes the start-frame reference for the next part. Repeat this sequentially through Part 10.
