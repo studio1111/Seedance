@@ -1,17 +1,39 @@
 SEEDANCE 2.5 — VIDEO 07 — 30 SECONDS
 
-PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+REFERENCE DECLARATION:
+Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 06. Same ice cream, same rubble and same alley.
 
-START EXACTLY from the actual final frame of Video 06. Keep `sakhi.Refernce.jpg` as the absolute child identity reference. Child is eating the same ice cream in the same alley. Panda is safely sitting in the same rubble.
+GLOBAL STYLE:
+Photorealistic warm comedy, 24fps, 16:9, restrained camera movement and believable reactions.
 
-ACTION: Child takes a happy bite. Panda notices the ice cream again and slowly reaches toward it. Child pulls the cup away. Panda looks embarrassed and gestures toward the child's home direction. Child considers this. A harmless loose cardboard piece falls from the rubble, startling panda. Panda accidentally rolls backward, stands up and begins running away again. Child assumes panda is trying to steal the ice cream again and immediately resumes the chase. Panda runs out of the alley toward the same street. Child follows.
+SCENE / INTENTION:
+The conflict appears finished, but a misunderstanding starts the chase again. The panda is not malicious, just tempted and clumsy.
 
-HANDOFF: Panda and child exit the alley into the same street, panda several meters ahead and child rapidly crawling behind. Video 08 begins here.
+FIRST FRAME + BLOCKING:
+Child sits safely with the ice cream. Panda sits in the same rubble, recovering.
 
-CAMERA: Calm medium shot becoming a quick comedic push-in, then smooth street-level pursuit.
+SHOT-BY-SHOT:
+0-5s, medium close: child takes a happy bite. Panda watches the cup, then looks away as if trying to behave.
+5-10s, slow push-in: panda cautiously extends one paw toward the cup. Child pulls the cup back. Panda immediately stops and lowers the paw.
+10-15s, two-shot: panda gestures toward the home direction with a small head tilt and open paw, then looks at the child. Child studies panda.
+15-20s, close reaction: a loose piece of cardboard slides down the rubble. Panda startles, rolls backward once and lands on its padded feet.
+20-25s, wide: panda instinctively starts running toward the alley exit. Child interprets this as another theft attempt and immediately resumes the chase.
+25-30s, smooth rear tracking: panda exits toward the same street, child follows rapidly on hands and knees.
 
-AUDIO: Triumphant music turns playful and accelerates.
+CAMERA / OPTICS:
+Start calm and intimate, then transition into a smooth street-level chase. Avoid abrupt camera jumps.
 
-NEGATIVE: No new characters, locations, identity or wardrobe changes, extra ice cream or injury.
+PHYSICS / CONTACT:
+Panda's roll is caused by the cardboard slipping under it. Child reacts after seeing panda move, not before. Ice cream stays secure.
 
-PRODUCTION FRAME RULE: After Part 7 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 8.
+LIGHTING:
+Same daylight and alley exposure.
+
+AUDIO:
+Music briefly softens, then snaps back into playful pursuit rhythm. Cardboard slide, plush roll, footsteps and Tehran ambience.
+
+HANDOFF:
+Final frame shows both exiting the alley into the same street, panda several meters ahead. Part 08 begins from this exact frame.
+
+NEGATIVE:
+No supernatural reactions, no extra people, no extra panda, no extra cup, no injury, no location jump, no identity drift.
