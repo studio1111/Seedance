@@ -3,7 +3,7 @@
 10 parts x 30 seconds = 300 seconds.
 
 CHILD IDENTITY:
-Use child-reference/sakhi.Refernce as the absolute identity anchor in every generation. Preserve exactly the same one-year-old child: face, eyes, hair, skin tone, body proportions, height, apparent age, gray one-piece outfit and gray socks. Never reinterpret the reference.
+Use the child reference image file `child-reference/sakhi.Refernce.jpg` as the absolute identity anchor in every generation. Preserve exactly the same one-year-old child: face, eyes, hair, skin tone, body proportions, height, apparent age, gray one-piece outfit and gray socks. Never reinterpret the reference.
 
 PANDA:
 One single fat plush panda, approximately the child's height but much wider, with soft black-and-white plush fur, large round belly, identical face and proportions in every shot.
