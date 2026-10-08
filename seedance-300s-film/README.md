@@ -3,7 +3,7 @@
 10 videos x 30 seconds = exactly 300 seconds.
 
 REFERENCE:
-The user-provided child image is in child-reference/child-reference.jpg.
+The user-provided child image is in child-reference/sakhi.Refernce.
 
 GENERATION ORDER:
 01 through 10, sequentially.
@@ -12,7 +12,7 @@ CONTINUITY:
 Use the previous video's final frame as the next video's opening reference. Keep the child reference active in every generation.
 
 REFERENCE ASSETS:
-child-reference/ = user child identity reference.
+child-reference/ = sakhi.Refernce identity reference.
 panda-reference/ = canonical panda design specification.
 environment-references/ = canonical Tehran environment specification.
 
