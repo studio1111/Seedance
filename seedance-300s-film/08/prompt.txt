@@ -1,6 +1,6 @@
 SEEDANCE 2.5 — VIDEO 08 — 30 SECONDS
 
-START EXACTLY from Video 07 final frame. Keep `child-reference/sakhi.Refernce.jpg` as the absolute child identity reference.
+START EXACTLY from the actual final frame of Video 07. Keep `sakhi.Refernce.jpg` as the absolute child identity reference.
 
 ACTION: Panda runs through the same quiet Tehran street. Child crawls after it with comic determination. Panda performs harmless evasive maneuvers around the same parked car, beneath a low barrier and around a corner. Child takes efficient crawling shortcuts. Panda slows because it is tired, looks back and sees child getting closer. Panda reaches a small open intersection near the child's home area. Child catches up enough that panda accidentally drops the ice-cream lid. Child notices it. Panda stops and looks guilty.
 
@@ -11,3 +11,5 @@ CAMERA: Smooth lateral tracking, low child-height framing, controlled wide shot 
 AUDIO: Playful chase music gradually slows into a humorous standoff motif.
 
 NEGATIVE: No new characters, different street, weather/time change, duplicate props or identity drift.
+
+PRODUCTION FRAME RULE: After Part 8 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 9.
