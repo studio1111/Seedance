@@ -1,5 +1,7 @@
 SEEDANCE 2.5 — VIDEO 09 — 30 SECONDS
 
+PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+
 START EXACTLY from the actual final frame of Video 08. Keep `sakhi.Refernce.jpg` as the absolute child identity reference.
 
 ACTION: Child holds the same ice-cream lid and stares at panda. Panda slowly approaches and offers the cup back. Child accepts it cautiously. Everything becomes calm. Panda gestures toward the child's home as if apologizing. Child smiles. Panda accidentally bumps the same parked vehicle, making a harmless funny sound. Child laughs. Panda becomes embarrassed and sits down. Child takes another bite. The chase is finally over. Child turns toward home and begins moving.
