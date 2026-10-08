@@ -1,17 +1,39 @@
 SEEDANCE 2.5 — VIDEO 09 — 30 SECONDS
 
-PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+REFERENCE DECLARATION:
+Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 08. Same street and sunlight.
 
-START EXACTLY from the actual final frame of Video 08. Keep `sakhi.Refernce.jpg` as the absolute child identity reference.
+GLOBAL STYLE:
+Photorealistic warm cinematic comedy, 24fps, 16:9, gentle camera movement, realistic material response.
 
-ACTION: Child holds the same ice-cream lid and stares at panda. Panda slowly approaches and offers the cup back. Child accepts it cautiously. Everything becomes calm. Panda gestures toward the child's home as if apologizing. Child smiles. Panda accidentally bumps the same parked vehicle, making a harmless funny sound. Child laughs. Panda becomes embarrassed and sits down. Child takes another bite. The chase is finally over. Child turns toward home and begins moving.
+SCENE / INTENTION:
+The chase resolves through a simple physical exchange rather than dialogue. The panda gives the cup back and the child accepts.
 
-HANDOFF: Child moves happily toward home with ice cream. Panda follows several steps behind as a friendly companion. Same Tehran street and sunlight. Video 10 begins exactly here.
+FIRST FRAME + BLOCKING:
+Child holds the lid. Panda stands several steps away with the cup. Preserve the exact positions.
 
-CAMERA: Gentle tracking, medium close-up of happy child, wide rear tracking toward home.
+SHOT-BY-SHOT:
+0-5s, medium two-shot: panda takes one slow step forward, stops, then extends the cup toward the child with both paws.
+5-10s, close detail: child reaches forward and accepts the cup. The hands visibly make contact before the panda releases it.
+10-15s, medium: panda lowers its head slightly, then gestures toward the home direction with one paw. Child looks at home, then back at panda.
+15-20s, wide: panda turns to follow. Its shoulder brushes the same parked vehicle, producing a harmless hollow sound. Panda freezes, embarrassed by the noise.
+20-25s, close reaction: child laughs naturally and takes another bite. Panda sits down and waits.
+25-30s, rear tracking: child turns toward home and begins moving. Panda follows several steps behind at a calm walking pace.
 
-AUDIO: Chase music transitions to warm cheerful ending theme.
+CAMERA / OPTICS:
+Gentle push-in for the handoff, close-up for the cup exchange, then wide rear tracking toward home.
 
-NEGATIVE: No identity, clothing, panda, prop, environment, weather or lighting changes.
+PHYSICS / CONTACT:
+The cup is transferred hand-to-paw with visible contact. Panda's vehicle bump is a light brush, not a collision. Child's movement remains age-appropriate.
 
-PRODUCTION FRAME RULE: After Part 9 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 10.
+LIGHTING:
+Same daylight and visual grade.
+
+AUDIO:
+Warm version of the same musical theme, soft cup handling, light vehicle tap, child laughter, plush steps and Tehran ambience. No dialogue.
+
+HANDOFF:
+Final frame shows child moving toward home with the ice cream and panda following calmly. Part 10 starts from this exact generated frame.
+
+NEGATIVE:
+No magical facial expression changes, no duplicate props, no age/wardrobe change, no new people, no location drift.
