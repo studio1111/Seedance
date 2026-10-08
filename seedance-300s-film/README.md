@@ -18,6 +18,9 @@ Character locks are documented in:
 The environment is documented in:
 - `environment-references/environment-design.md`
 
+The Seedance 2.5 prompting and motion-choreography standard is documented in:
+- `PROMPTING_METHOD.md`
+
 ## Generation Order
 
 Generate exactly in order: **01 → 02 → 03 → 04 → 05 → 06 → 07 → 08 → 09 → 10**.
