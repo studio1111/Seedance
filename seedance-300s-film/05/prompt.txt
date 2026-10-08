@@ -1,19 +1,39 @@
-Use `sakhi.Refernce.jpg` as the absolute child identity reference.
-
 SEEDANCE 2.5 — VIDEO 05 — 30 SECONDS
 
-PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+REFERENCE DECLARATION:
+Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 04. Same ice-cream cup and same neighborhood.
 
-START EXACTLY from the actual final frame of Video 04.
+GLOBAL STYLE:
+Photorealistic residential chase, grounded comedy, 24fps, 16:9, realistic inertia and contact.
 
-ACTION: Panda climbs from the same vehicle roof to the sidewalk and runs. Child uses the safe rooftop/building route and reaches street level moments later. Chase continues through the same quiet Tehran neighborhood. Panda hides behind the same parked vehicle, peeks out, sees child and immediately runs. Panda accidentally crashes into a small stack of empty cardboard boxes beside a wall. Boxes collapse harmlessly. Panda emerges still holding the ice cream and continues. Child catches up slightly. Panda turns into a narrower residential alley. Child follows rapidly on hands and knees. Alley becomes progressively narrower. Panda accelerates without realizing the street ends.
+SCENE / INTENTION:
+The panda returns to street level and tries to disappear into a narrowing alley. The environment itself gradually removes its escape options.
 
-HANDOFF: Panda enters a narrow dead-end alley. Concrete wall blocks the far end. Child enters immediately behind it. Video 06 starts with this exact geometry and spacing.
+FIRST FRAME + BLOCKING:
+Panda is on the same vehicle roof below the rooftop. Child is above at the edge. Preserve the exact spatial relationship from Part 04.
 
-CAMERA: Street-level tracking, brief comedy close-ups, forward tracking into narrowing alley.
+SHOT-BY-SHOT:
+0-5s, low vehicle shot: panda climbs down from the roof using the hood and side edge, lands on the sidewalk and immediately runs.
+5-10s, medium follow: child takes the safe building route to street level. The child is always primarily crawling and never suddenly runs.
+10-15s, lateral tracking: panda hides behind the same parked vehicle, peeks around it, sees the child, then darts away. Its cup remains in both paws.
+15-20s, close-to-wide: panda clips a small stack of empty cardboard boxes with its hip. Boxes slide and collapse with believable light mass. Panda stumbles, recovers and continues.
+20-25s, forward alley track: panda turns into the established narrow alley. Child follows, crawling quickly. The walls visibly get closer together.
+25-30s, rear wide: panda reaches the dead-end wall and slows abruptly. Child enters the alley behind it. Both are now trapped in the same geometry.
 
-AUDIO: Same musical theme, escalating comic suspense, cardboard crash, footsteps and city ambience.
+CAMERA / OPTICS:
+Street-level tracking, one short close-up of the boxes, then a long forward move into the narrowing alley. Keep the escape direction visible.
 
-NEGATIVE: No new characters, vehicles or buildings, no different alley, no prop or identity drift.
+PHYSICS / CONTACT:
+Cardboard boxes are lightweight and move separately. Panda's stumble is caused by contact with the boxes, not a supernatural reaction. Child maintains ground contact.
 
-PRODUCTION FRAME RULE: After Part 5 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 6.
+LIGHTING:
+Same sunny daylight entering the alley. No sudden exposure change.
+
+AUDIO:
+Music becomes tense but playful. Cardboard scraping, soft impact, plush footsteps, child movement and neighborhood ambience.
+
+HANDOFF:
+Final frame clearly establishes the dead-end wall, panda at the far end and child entering behind. Part 06 begins from this exact frame.
+
+NEGATIVE:
+No injury, no extra vehicles or people, no duplicate cup, no different alley, no teleportation, no cartoon transformation.
