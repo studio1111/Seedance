@@ -1,17 +1,39 @@
 SEEDANCE 2.5 — VIDEO 06 — 30 SECONDS
 
-PANDA REFERENCE: Use `panda-reference.png` as the absolute canonical panda identity reference. Preserve the same single plush panda, height, width, belly, face, markings, plush material and black-and-white pattern.
+REFERENCE DECLARATION:
+Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 05. Same cup and same dead-end alley.
 
-START EXACTLY from the actual final frame of Video 05. Keep `sakhi.Refernce.jpg` as the absolute child identity reference.
+GLOBAL STYLE:
+Photorealistic slapstick action with safe practical effects, 24fps, 16:9, believable contact and material deformation.
 
-ACTION: Panda runs to the end of the narrow alley and discovers the concrete wall. It stops, looks left and right, realizes it is trapped, then turns around. Child approaches from the opposite end, furious but comically determined. Panda hides the ice cream behind its back. Child rapidly crawls forward. Panda tries to squeeze past but its oversized plush body gets comically stuck between the narrow walls. Child reaches panda and raises one tiny fist. Brief comedic pause. Child delivers one exaggerated slapstick punch to panda's soft belly. Plush belly compresses. Panda is propelled backward into a weak lightweight wall section. Wall cracks and collapses safely. No injury, blood or gore. Panda lands safely in lightweight rubble, dazed but unharmed. Child retrieves ice cream.
+SCENE / INTENTION:
+The panda is trapped. The confrontation is funny rather than violent. A small accidental push creates a controlled breakaway-wall gag.
 
-HANDOFF: Child sits safely in the same alley and begins eating the ice cream. Panda is safely visible in rubble. Video 07 continues from this frame.
+FIRST FRAME + BLOCKING:
+Panda faces the dead-end wall. Child enters behind it. Preserve exact spacing from Part 05.
 
-CAMERA: Locked confrontation, controlled push-in for punch, pull-back to wide shot.
+SHOT-BY-SHOT:
+0-5s, wide locked shot: panda reaches the wall, stops, looks left, right, then back at the child. It realizes there is no exit.
+5-10s, medium alternating coverage: child crawls closer. Panda hides the cup behind its back. Child reaches one hand toward it. Panda shifts the cup away.
+10-15s, close low shot: panda tries to squeeze past the child but its wide plush belly catches between the narrow walls. It rocks forward and backward, trying to free itself.
+15-20s, medium two-shot: child raises a tiny fist, pauses, then gives the panda one gentle comedic push to the soft belly. The plush compresses visibly and rebounds.
+20-25s, wide side angle: the panda loses balance backward and bumps a clearly lightweight non-load-bearing breakaway wall panel. The panel cracks along a prepared seam, dust puffs outward, and lightweight pieces fall away.
+25-30s, stable wide: panda lands safely in the light rubble, unharmed. Child retrieves the ice-cream cup. Panda remains seated and dazed only in a comic physical sense.
 
-AUDIO: Musical climax, soft comedic impact, lightweight wall collapse, cheerful music.
+CAMERA / OPTICS:
+Locked wide for geography, close-up for the belly compression, medium two-shot for the push, wide side angle for the breakaway effect. Do not cut away from the actual contact.
 
-NEGATIVE: No blood, gore, injury, realistic violence, identity drift, wardrobe change, new characters or environment.
+PHYSICS / CONTACT:
+This is a harmless slapstick effect. No injury, blood or gore. Wall material is explicitly lightweight breakaway construction. Dust is fine and settles naturally. Plush belly compresses, then returns to shape.
 
-PRODUCTION FRAME RULE: After Part 6 is actually generated, extract its real final frame. Use that real final frame as the opening reference for Part 7.
+LIGHTING:
+Same daylight, dust catches the existing sunlight without changing the scene.
+
+AUDIO:
+Music hits a comic accent on the push and wall collapse. Soft plush thump, lightweight crack, small dust/rubble sounds, then cheerful music returns. No dialogue.
+
+HANDOFF:
+Final frame holds child seated with the recovered ice cream and panda safely visible in the same rubble. Part 07 starts from this exact frame.
+
+NEGATIVE:
+No realistic injury, blood, gore, broken bones, dangerous structural collapse, child impact, duplicate characters, duplicate ice cream, identity drift, cartoon rendering.
