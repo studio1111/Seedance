@@ -1,40 +1,39 @@
-# SEEDANCE 2.5 — 300-SECOND FILM MASTER CONTINUITY
+# Master Continuity — The Vanishing Panda
 
-10 parts x 30 seconds = 300 seconds.
+## Canonical references
+- Child: `sakhi.Refernce.jpg`. Preserve exact identity, one-year-old age, face, hair, proportions, gray outfit and gray socks.
+- Panda: `panda-reference.png`. Preserve black-and-white markings, round silhouette and face. Animate as one living expressive panda.
 
-CHILD IDENTITY:
-Use the child reference image file `sakhi.Refernce.jpg` as the absolute identity anchor in every generation. For Parts 2-10, also use the actual final frame of the immediately previous generated video as the opening continuity frame. Preserve exactly the same one-year-old child: face, eyes, hair, skin tone, body proportions, height, apparent age, gray one-piece outfit and gray socks. Never reinterpret the reference.
+## Connected route
+1. Helicopter above a bamboo clearing; fern landing zone.
+2. Bamboo maze, fallen log, muddy channel and stream fork.
+3. Shallow stream, stepping stones, floating log and root arch.
+4. Rope bridge over a fern ravine, leading to a giant old tree.
+5. Glowing amber seed-pod tree and rocky passage.
+6. Sloping rock corridor, rolling stones, fallen trunk and ridge bend.
+7. Luminous grove with blue-green bulbs, opening onto exposed cliff path.
+8. Ridge, rock spire, puddle reflection and final stone shelf.
+9. Final shelf above broad river canyon and waterfall mist.
+10. Same shelf and river; panda remains unseen after the leap.
 
-PANDA:
-One single fat plush panda, approximately the child's height but much wider, with soft black-and-white plush fur, large round belly, identical face and proportions in every shot.
+## Exact frame handoff
+1. Generate Part 1 with both character reference images.
+2. Export the actual last frame of Part 1.
+3. Attach that exact frame as the start frame of Part 2, alongside both character references.
+4. Repeat through Part 10. Never draw, invent or substitute the handoff frame.
+5. Inspect each seam for matching pose, camera, screen direction, lighting, costume, props and movement.
 
-ICE CREAM:
-One single cup, same cup, lid, color, contents and scale. Never duplicate it.
+## Boundary states
+- 01 → 02: child is in fern clearing, starting to pursue panda.
+- 02 → 03: panda reaches stream fork; child returns from dead-end.
+- 03 → 04: both crest hill and rope bridge becomes visible.
+- 04 → 05: both enter clearing beneath giant glowing seed-pod tree.
+- 05 → 06: both enter rocky passage as rushing water grows louder.
+- 06 → 07: panda leads toward ridge and waterfall.
+- 07 → 08: both arrive at exposed cliff path.
+- 08 → 09: panda backs toward cliff lip on final broad shelf; child advances.
+- 09 → 10: child is safely back from edge, looking at foaming river.
+- 10: hold on child's furious close-up and hard cut to black at exactly 30 seconds.
 
-WORLD:
-Quiet realistic Tehran residential district. Same Iranian urban architecture, sidewalks, walls, parked cars, rooftops and alley geometry. Sunny daytime. No time or weather jumps.
-
-VISUAL LANGUAGE:
-Photorealistic cinematic comedy-action. Natural skin/fur/materials, believable physics, consistent shadows/reflections, 24–35mm cinematic lens family, controlled camera motion and consistent color grade.
-
-STORY:
-01 theft.
-02 street chase.
-03 car chase and rooftop access.
-04 rooftop chase.
-05 descent and narrowing alley.
-06 dead-end confrontation.
-07 comic aftermath and accidental second chase.
-08 final pursuit and ice-cream lid recovery.
-09 reconciliation.
-10 walk home and final ending.
-
-HANDOFF:
-Every final frame is the exact starting state for the next part. If Seedance supports image/reference conditioning, use the previous final frame as the next first-frame anchor.
-
-HARD NEGATIVES:
-No identity drift, wardrobe drift, age drift, scale drift, duplicate characters, duplicate ice cream, random people/animals/vehicles, logos, readable generated text, cartoon transformation, sudden weather/time change, teleportation, impossible physics or graphic violence.
-
-## Real-Frame Production Rule
-
-No future start or end frame is assumed before a video is generated. Part 1 starts from the fixed character and environment references. After each part is actually generated, its real final frame becomes the start-frame reference for the next part. Repeat this sequentially through Part 10.
+## Action and camera locks
+Use colorful toy foam props and magical seed-pod fireworks only. No injury, gore, realistic weapons or harm to panda. Keep toddler movement believable. Establish geography before speeding up. Use slow motion only for signature dodges, the bridge hop, magical bursts and panda's leap.
