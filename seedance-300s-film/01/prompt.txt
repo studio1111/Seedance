@@ -1,42 +1,55 @@
-SEEDANCE 2.5 — VIDEO 01 — 30 SECONDS
+SEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps | native audio on.
+IDENTITY: Child reference "sakhi.Refernce.jpg": preserve exact one-year-old face, hair, proportions, gray outfit and gray socks; toddler crawls quickly and only takes brief wobbly steps. Panda reference "panda-reference.png": one living expressive panda, same black-white markings and scale.
+LOOK: original theatrical 3D animation, tactile fur/fabric, expressive acting, clear silhouettes, motivated camera moves, controlled motion blur, rich forest depth, no copying any studio's specific characters.
+ACTION SAFETY: any launcher is a colorful toy foam popper producing harmless foam blobs and bright splats. Never depict real weapons, real bullets, injuries, blood, gore or impact on panda. Giant bursts are magical seed-pod fireworks that scatter pollen and leaves away from characters.
+CAMERA: 24–28mm for geography/action tracking, 35–50mm for readable comedy, 70–85mm for close emotion. Keep screen direction and spatial layout clear. Slow motion only for a signature near-miss. No random shake.
+AUDIO: original orchestral comedy-action score, rotor wash, forest ambience, rope creaks, foam splats, leaves, river where relevant. No dialogue, narration, lyrics, text, logos or watermark.
+CONTINUITY: Part 1 begins from character references. Later parts must start from the actual exported final frame of the previous clip, with both character references. Never invent the handoff frame. Keep pose, camera, lighting, screen direction, outfit and props continuous.
 
-REFERENCE DECLARATION:
-Child reference: sakhi.Refernce.jpg. Preserve the exact one-year-old child, face, hair, skin, body proportions, apparent age, gray one-piece outfit and gray socks.
-Panda reference: panda-reference.png. One single plush panda, approximately child height but much wider, soft black-and-white plush, large round belly, short padded limbs.
-Prop: one small ice-cream cup, one lid, unchanged for the entire film.
-Environment: the canonical quiet Tehran residential neighborhood from environment-references/environment-design.md.
+PART 01: The Ridiculous Invasion
+SCENE INTENTION: The child arrives by helicopter at a bamboo forest, misses a foam-pop shot because of turbulence, then descends by rope into a fern clearing and begins chasing the panda.
+START FRAME: Use both character reference images; establish the helicopter and forest immediately.
+EXACT SECOND-BY-SECOND TIMELINE. Each row covers that one-second interval; do not reorder or skip.
 
-GLOBAL STYLE:
-Photorealistic live-action comedy-action cinema, grounded practical realism, 24fps, 16:9, 24-35mm lens family, natural motion blur, realistic materials, no glossy CGI look. Sunny daytime with one consistent sun direction.
+SHOT 1 | 0-5s | AERIAL 24mm; helicopter descends over layered bamboo and mist.
+00-01s: Rotor wash bends the canopy; child peers through the open side door.
+01-02s: A butterfly lands on the child's cheek; the child blinks cross-eyed.
+02-03s: Panda lounges on a moss boulder, holding an ice-cream cone like a trophy.
+03-04s: Child raises a colorful toy foam popper; helicopter rocks gently.
+04-05s: A harmless foam blob misses and sticks to a bamboo stalk.
+At 5s, cut on movement and preserve screen direction.
 
-SCENE / INTENTION:
-A peaceful moment becomes a playful chase when the plush panda steals the child's ice cream. The comedy comes from timing, hesitation, acceleration and believable weight.
+SHOT 2 | 5-10s | INTERIOR 50mm close-up; padded rest and toy prop in foreground.
+05-06s: Child steadies the prop with both hands, tongue poking out in focus.
+06-07s: Helicopter sways left; toy sight drifts away from panda.
+07-08s: Foam blob pops a tiny cloud of colored powder on bamboo.
+08-09s: Child lowers the prop in offended silence; cheeks inflate.
+09-10s: Helmet slips over one eye; child pushes it up with a tiny fist.
+At 10s, cut on movement and preserve screen direction.
 
-FIRST FRAME + BLOCKING:
-Start with the child already seated on the same quiet sidewalk, ice-cream cup held between both hands. Panda is hidden behind the established parked car, out of frame. Camera is low at child height.
+SHOT 3 | 10-15s | PANDA POV 35mm; panda notices the splat and looks up.
+10-11s: Panda takes a slow lick of ice cream without breaking eye contact.
+11-12s: Child points dramatically through the open door.
+12-13s: Panda gives a dismissive little wave and steps behind bamboo.
+13-14s: Child grabs a thick safety rope on a rescue rig.
+14-15s: Helicopter banks in a broad, safe arc above the clearing.
+At 15s, cut on movement and preserve screen direction.
 
-SHOT-BY-SHOT:
-0-5s, close low shot: child rotates the cup, tries the lid with both hands, pulls, pauses, tries again. Fingers slip slightly. The cup stays firmly in the child's hands.
-5-10s, medium tracking: lid loosens. Child looks down, then smiles at the opened cup. Panda slowly peeks from behind the parked car, eyes fixed on the ice cream.
-10-15s, over-shoulder: panda pads closer in short quick steps, pauses when the child looks up, then waits for the child's attention to return to the cup.
-15-20s, lateral tracking: panda reaches in, grips the cup with both padded paws, pulls once. Child resists for a beat. Panda wins the tug and retreats with the cup.
-20-25s, low pursuit: panda turns and accelerates down the sidewalk. Its plush belly lags and bounces with each step. Child looks shocked, plants both hands and knees, then launches into a fast crawl.
-25-30s, wide rear tracking: panda moves away holding the cup, child follows directly behind. The sidewalk, parked car and street geometry remain visible and stable.
+SHOT 4 | 15-20s | SIDE TRACK 28mm; child clips into a cartoon rescue harness.
+15-16s: Child checks the buckle backward, then corrects it.
+16-17s: Child swings out on rope, legs bicycling wildly in the wind.
+17-18s: Camera follows the pendulum arc toward soft ferns.
+18-19s: Child lands butt-first in a fern cushion; leaves burst like confetti.
+19-20s: The helicopter remains high and distant; landing is soft and safe.
+At 20s, cut on movement and preserve screen direction.
 
-CAMERA / OPTICS:
-Low child-height tracking; close-up only for the lid and handoff; lateral move during the theft; final camera tracks backward with the chase. Every camera move has a clear endpoint.
+SHOT 5 | 20-25s | GROUND TRACK 28mm; child pops up and brushes leaves off gray clothes.
+20-21s: Child draws two brightly colored foam poppers.
+21-22s: One prop squeaks and emits a tiny harmless blue puff.
+22-23s: Panda darts between trunks with the cone held high.
+23-24s: Child tries two wobbly steps, then drops to a fast crawl.
+24-25s: Child slips on a leaf, spins seated, and scoots forward after panda.
+At 25s, cut on movement and preserve screen direction.
 
-PHYSICS / CONTACT:
-Child has realistic one-year-old balance and hand coordination. Panda has plush compression and inertia. The cup never floats or duplicates. Feet, knees and hands visibly contact the ground.
-
-LIGHTING:
-Natural sunny daylight, consistent soft-edged shadows from the same sun direction. No exposure jump.
-
-AUDIO:
-Native audio: cheerful original orchestral comedy theme, light percussion and brass, Tehran residential ambience, cup/lid handling, soft plush footsteps, child movement sounds. No dialogue.
-
-HANDOFF:
-Final frame holds panda several meters ahead moving away with the cup while the child is beginning the chase. This actual generated final frame becomes Part 02's start frame.
-
-NEGATIVE:
-No extra child, no extra panda, no duplicate ice cream, no real animal panda, no age change, no wardrobe change, no running child, no teleportation, no floating props, no text, no logos, no cartoon look, no weather/time change.
+NEGATIVE LOCKS: no realistic weapon, no actual bullets, no injury or panda impact, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no captions, no logo, no watermark.
+END FRAME: Child has landed in the fern clearing and begins crawling toward panda; make this last frame stable enough to use as Part 02's exact first frame. No fade.
