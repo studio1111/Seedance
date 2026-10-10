@@ -25,8 +25,12 @@ def mat(name, color, rough=0.7, metallic=0.0, emission=0.0):
         bs.inputs["Roughness"].default_value = rough
         bs.inputs["Metallic"].default_value = metallic
         if emission:
-            bs.inputs["Emission Color"].default_value = (*color, 1)
-            bs.inputs["Emission Strength"].default_value = emission
+            emission_socket = bs.inputs.get("Emission Color") or bs.inputs.get("Emission")
+            if emission_socket:
+                emission_socket.default_value = (*color, 1)
+            strength_socket = bs.inputs.get("Emission Strength")
+            if strength_socket:
+                strength_socket.default_value = emission
     return m
 
 M = {
@@ -216,7 +220,8 @@ def add_action_props(part):
 def setup_scene(scene, part):
     scene.frame_start=1; scene.frame_end=FRAMES; scene.render.fps=FPS
     scene.render.resolution_x=RES_X; scene.render.resolution_y=RES_Y; scene.render.resolution_percentage=100
-    scene.render.engine="CYCLES" if False else "BLENDER_EEVEE_NEXT"
+    engine_items = bpy.types.RenderSettings.bl_rna.properties["engine"].enum_items.keys()
+    scene.render.engine = "BLENDER_EEVEE_NEXT" if "BLENDER_EEVEE_NEXT" in engine_items else "BLENDER_EEVEE"
     scene.render.image_settings.file_format="FFMPEG"; scene.render.ffmpeg.format="MPEG4"; scene.render.ffmpeg.codec="H264"
     scene.view_settings.view_transform="Standard"
     scene.render.film_transparent=False
