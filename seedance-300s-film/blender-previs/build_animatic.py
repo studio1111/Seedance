@@ -291,17 +291,19 @@ def main():
     scenes=[]
     scene=bpy.context.scene
     scene.name="CLIP_01_Approach"
-    setup_scene(scene,1); scenes.append(scene)
+    with bpy.context.temp_override(scene=scene, view_layer=scene.view_layers[0]):
+        setup_scene(scene,1)
+    scenes.append(scene)
     labels=[
       "02_Bamboo_Chase","03_Stream_Crossing","04_Rope_Bridge","05_Glowing_Grove",
       "06_Rolling_Stones","07_Ridge_Trail","08_Cliff_Shelf","09_Leap_To_River","10_Furious_End"
     ]
     for part,label in enumerate(labels,start=2):
         sc=bpy.data.scenes.new(f"CLIP_{part:02d}_{label}")
-        bpy.context.window.scene=sc
-        setup_scene(sc,part); scenes.append(sc)
-    bpy.context.window.scene=scenes[0]
-    # Save a Blender project containing all ten independently renderable clips.
+        with bpy.context.temp_override(scene=sc, view_layer=sc.view_layers[0]):
+            setup_scene(sc,part)
+        scenes.append(sc)
+        # Save a Blender project containing all ten independently renderable clips.
     blend_path=os.path.join(OUT,"the_vanishing_panda_previs.blend")
     bpy.ops.wm.save_as_mainfile(filepath=blend_path)
     print("SAVED:",blend_path)
