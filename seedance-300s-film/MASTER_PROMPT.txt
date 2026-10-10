@@ -7,13 +7,16 @@ REFERENCES: Child = sakhi.Refernce.jpg. Panda = panda-reference.png. Preserve th
 
 GLOBAL STYLE: Original premium 3D family-animation craft, expressive acting, tactile fur and fabric, motivated cinematic camera, clear geography, coherent daylight, 16:9, 24fps, 1080p where available, native audio. No studio-character copying.
 
-FAMILY-SAFE ACTION: Colorful toy foam props and magical seed-pod fireworks only. No realistic weapons, injury, blood, gore or harm to panda. Bursts scatter pollen and leaves away from characters.
+FAMILY-SAFE ACTION: Colorful toy foam props and magical seed-pod fireworks only. No injury, blood, gore or harm to panda. Bursts scatter pollen and leaves away from characters.
 
 AUDIO: Original orchestral comedy-action score, rotor wash, forest ambience, rope, water, leaves and magical pops. No dialogue, captions, logos or watermark.
 
 CONTINUITY: Exactly ten clips, each exactly 30 seconds. Part 1 uses both character references. Parts 2–10 also use the actual exported final frame of the immediately previous clip as the exact first frame. Never invent a handoff frame. Preserve pose, camera, screen direction, lighting, wardrobe and props. Part 10 hard-cuts to black at 30.0 seconds.
 
-\n========================================================================\nPART 01 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps | native audio on.
+========================================================================
+PART 01 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps | native audio on.
 IDENTITY: Child reference "sakhi.Refernce.jpg": preserve exact one-year-old face, hair, proportions, gray outfit and gray socks; toddler crawls quickly and only takes brief wobbly steps. Panda reference "panda-reference.png": one living expressive panda, same black-white markings and scale.
 LOOK: original theatrical 3D animation, tactile fur/fabric, expressive acting, clear silhouettes, motivated camera moves, controlled motion blur, rich forest depth, no copying any studio's specific characters.
 ACTION SAFETY: any launcher is a colorful toy foam popper producing harmless foam blobs and bright splats. Never depict real weapons, real bullets, injuries, blood, gore or impact on panda. Giant bursts are magical seed-pod fireworks that scatter pollen and leaves away from characters.
@@ -66,9 +69,22 @@ SHOT 5 | 20-25s | GROUND TRACK 28mm; child pops up and brushes leaves off gray c
 24-25s: Child slips on a leaf, spins seated, and scoots forward after panda.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Pursuit into the Bamboo
+25-26s: Child drops to all fours and crawls after panda into the first bamboo corridor.
+26-27s: Panda glances over shoulder, cone raised, then slips behind two trunks.
+27-28s: Low 28mm camera tracks beside the child; bamboo stalks wipe across foreground.
+28-29s: Child pushes through soft leaves and emerges determined, helmet crooked.
+29-30s: Panda's silhouette darts deeper into the maze; end on a stable forward-moving composition for Part 02.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapon, no actual bullets, no injury or panda impact, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no captions, no logo, no watermark.
-END FRAME: Child has landed in the fern clearing and begins crawling toward panda; make this last frame stable enough to use as Part 02's exact first frame. No fade.
-\n\n========================================================================\nPART 02 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
+END FRAME: Child and panda are both entering the bamboo maze; export this actual final frame for Part 02. No fade.
+
+
+========================================================================
+PART 02 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
 Character lock: child reference "sakhi.Refernce.jpg", exact one-year-old identity and gray outfit; panda reference "panda-reference.png", one living expressive panda with consistent markings. Bright toy foam poppers produce harmless colorful foam only. Magical seed-pod bursts scatter pollen and leaves away from characters. No injuries, gore, realistic weapons or harm to panda.
 Camera: purposeful 24–85mm lens choices, clear geography, stable screen direction, motivated tracking and brief slow motion. Audio: original orchestral comedy-action score, forest ambience, foam splats, rope and foliage foley; no dialogue, text, logo or watermark.
 
@@ -117,9 +133,22 @@ SHOT 5 | 20-25s | HIGH ANGLE CRANE; panda reaches a fork by a glittering stream.
 24-25s: Panda crosses the far bank, keeping the same screen direction.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | The Stream Fork
+25-26s: Child rushes back from the wrong trail, brushing leaves from the gray outfit.
+26-27s: Panda lands on the far bank and pauses beside the stream.
+27-28s: Camera pans to reveal stepping stones and the bright water crossing.
+28-29s: Child reaches the near bank, still crawling quickly.
+29-30s: Panda turns toward the stepping stones; hold a clear wide composition for Part 03.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapon, no actual bullets, no injury or panda impact, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no captions, no logo, no watermark.
-END FRAME: Panda has reached the stream fork while child rushes back from the dead-end; compose a stable frame to begin Part 03. Export the actual last frame. No fade.
-\n\n========================================================================\nPART 03 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
+END FRAME: Panda stands at the stream crossing and child reaches the near bank; export this actual final frame for Part 03. No fade.
+
+
+========================================================================
+PART 03 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
 Character lock: child reference "sakhi.Refernce.jpg", exact one-year-old identity and gray outfit; panda reference "panda-reference.png", one living expressive panda with consistent markings. Bright toy foam poppers produce harmless colorful foam only. Magical seed-pod bursts scatter pollen and leaves away from characters. No injuries, gore, realistic weapons or harm to panda.
 Camera: purposeful 24–85mm lens choices, clear geography, stable screen direction, motivated tracking and brief slow motion. Audio: original orchestral comedy-action score, forest ambience, foam splats, rope and foliage foley; no dialogue, text, logo or watermark.
 
@@ -168,9 +197,22 @@ SHOT 5 | 20-25s | LONG LENS 70mm; both race uphill through layered foliage.
 24-25s: A rope bridge and huge old tree appear ahead.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Up to the Rope Bridge
+25-26s: Child follows panda up the final stretch of the hill.
+26-27s: Panda bounds over a root and glances back at the child.
+27-28s: The camera rises to reveal the rope bridge spanning the ravine.
+28-29s: Child pauses, looks at the bridge, then resumes crawling.
+29-30s: Panda steps onto the near end of the bridge; hold geography clearly for Part 04.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
-END FRAME: Both crest the hill into a clearing where the rope bridge becomes visible. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
-\n\n========================================================================\nPART 04 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
+END FRAME: Rope bridge is fully visible and panda is at its entrance; export this actual final frame for Part 04. No fade.
+
+
+========================================================================
+PART 04 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
 Character lock: child reference "sakhi.Refernce.jpg", exact one-year-old identity and gray outfit; panda reference "panda-reference.png", one living expressive panda with consistent markings. Bright toy foam poppers produce harmless colorful foam only. Magical seed-pod bursts scatter pollen and leaves away from characters. No injuries, gore, realistic weapons or harm to panda.
 Camera: purposeful 24–85mm lens choices, clear geography, stable screen direction, motivated tracking and brief slow motion. Audio: original orchestral comedy-action score, forest ambience, foam splats, rope and foliage foley; no dialogue, text, logo or watermark.
 
@@ -219,9 +261,22 @@ SHOT 5 | 20-25s | CRANE TO FAR BANK; panda lands and races toward rocky trail.
 24-25s: A distant amber seed pod glows through the trees.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Into the Glowing Clearing
+25-26s: Panda races through ferns toward the giant old tree.
+26-27s: Child reaches the far bank, brushes leaves from the helmet and follows.
+27-28s: Crane move reveals amber seed pods glowing in the canopy.
+28-29s: Panda passes under the first hanging pod, looking back.
+29-30s: Child enters the clearing beneath the tree; hold the glowing pods in frame for Part 05.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
-END FRAME: Both enter the clearing beneath a giant tree with glowing amber seed pods. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
-\n\n========================================================================\nPART 05 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
+END FRAME: Both characters have reached the giant tree's glowing seed-pod clearing; export this actual final frame for Part 05. No fade.
+
+
+========================================================================
+PART 05 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
 Character lock: child reference "sakhi.Refernce.jpg", exact one-year-old identity and gray outfit; panda reference "panda-reference.png", one living expressive panda with consistent markings. Bright toy foam poppers produce harmless colorful foam only. Magical seed-pod bursts scatter pollen and leaves away from characters. No injuries, gore, realistic weapons or harm to panda.
 Camera: purposeful 24–85mm lens choices, clear geography, stable screen direction, motivated tracking and brief slow motion. Audio: original orchestral comedy-action score, forest ambience, foam splats, rope and foliage foley; no dialogue, text, logo or watermark.
 
@@ -270,9 +325,22 @@ SHOT 5 | 20-25s | AERIAL FOLLOW; chase circles the giant tree beneath glowing ca
 24-25s: Both race toward the rocky passage as water grows louder.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Into the Rock Passage
+25-26s: Panda slips between two boulders at the edge of the clearing.
+26-27s: Child rushes after it, pollen sparkling on the gray outfit.
+27-28s: Camera lowers toward the dark rocky passage and reveals the narrow trail.
+28-29s: Panda's silhouette crosses the entrance as water roars in the distance.
+29-30s: Child follows into the rocky passage; end on a stable forward-moving frame for Part 06.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
-END FRAME: Both race into a dark rocky passage while the sound of rushing water grows louder. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
-\n\n========================================================================\nPART 06 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | Part 06: The Rolling Rock Run | 30 seconds | 16:9 | 24 fps
+END FRAME: Both characters are entering the rocky passage; export this actual final frame for Part 06. No fade.
+
+
+========================================================================
+PART 06 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | Part 06: The Rolling Rock Run | 30 seconds | 16:9 | 24 fps
 Use the child reference sakhi.Refernce.jpg and panda-reference.png. Preserve the same child identity, gray outfit and panda markings. Original premium 3D family animation, clear geography, motivated camera, expressive comedy, realistic gravity, no injury or gore.
 START: Use the actual last frame of Part 05 as this clip's exact first frame.
 00-01s: Establish the sloping rock corridor and fern meadow with a 24mm wide shot.
@@ -308,7 +376,12 @@ START: Use the actual last frame of Part 05 as this clip's exact first frame.
 AUDIO: Original orchestral comedy-action score, forest ambience, rolling stone rumble, leaf rustle, distant waterfall. No dialogue, no text, no logo, no watermark.
 NEGATIVE: no injuries, gore, duplicate characters, face or outfit drift, extra limbs, random camera shake, teleporting, unsafe debris impact, or unexplained time jump.
 HANDOFF: Export this actual final frame and use it as the exact first frame of Part 07. No fade.
-\n\n========================================================================\nPART 07 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | Part 07: The Firefly Grove | 30 seconds | 16:9 | 24 fps
+
+
+========================================================================
+PART 07 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | Part 07: The Firefly Grove | 30 seconds | 16:9 | 24 fps
 Use child reference sakhi.Refernce.jpg and panda-reference.png. Preserve the child's exact one-year-old identity, gray outfit and panda markings. Original premium 3D family animation, readable action, purposeful camera, expressive comedy. No injury or gore.
 START: Use the actual final frame of Part 06 as the exact first frame.
 00-01s: Wide 24mm view of a luminous grove, blue-green bulbs hovering among roots.
@@ -344,7 +417,12 @@ START: Use the actual final frame of Part 06 as the exact first frame.
 AUDIO: Orchestral comedy-action score, soft magical pops, leaves, crawling, distant river. No dialogue, captions, logo or watermark.
 NEGATIVE: no injury, no duplicate characters, no face/age/outfit drift, no random camera shake, no teleporting, no unsafe debris.
 HANDOFF: Export the actual final frame and use it as the exact first frame of Part 08. No fade.
-\n\n========================================================================\nPART 08 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | Part 08: The Ridge of False Triumph | 30 seconds | 16:9 | 24 fps
+
+
+========================================================================
+PART 08 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | Part 08: The Ridge of False Triumph | 30 seconds | 16:9 | 24 fps
 Use child reference sakhi.Refernce.jpg and panda-reference.png. Preserve exact child identity, one-year-old proportions, gray outfit and panda markings. Original premium 3D family-animation craft, readable geography, expressive acting, motivated camera. No injury or gore.
 START: Use the actual final frame of Part 07 as the exact first frame.
 00-01s: Extreme wide 24mm: ridge curves above a broad river canyon.
@@ -380,7 +458,12 @@ START: Use the actual final frame of Part 07 as the exact first frame.
 AUDIO: Orchestral suspense pulses over wind, distant river and loose gravel. No dialogue, captions, logos or watermark.
 NEGATIVE: no injury, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no unsafe debris.
 HANDOFF: Export the actual final frame and use it as the exact first frame of Part 09. No fade.
-\n\n========================================================================\nPART 09 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | Part 09: The Leap | 30 seconds | 16:9 | 24 fps
+
+
+========================================================================
+PART 09 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | Part 09: The Leap | 30 seconds | 16:9 | 24 fps
 Use child reference sakhi.Refernce.jpg and panda-reference.png. Preserve exact child identity, one-year-old proportions, gray outfit and panda markings. Original premium 3D family animation, elegant slow motion, clear spatial layout, expressive acting. No injury or gore.
 START: Use the actual final frame of Part 08 as the exact first frame.
 00-01s: Silent wide 24mm: child and panda hold position on the stone shelf.
@@ -416,7 +499,12 @@ START: Use the actual final frame of Part 08 as the exact first frame.
 AUDIO: Music suspends during the leap, then returns as low brass and distant river. No dialogue, captions, logos or watermark.
 NEGATIVE: no injury, no body visible underwater, no duplicate characters, no face/age/outfit drift, no random camera shake, no teleporting, no text.
 HANDOFF: Export the actual final frame and use it as the exact first frame of Part 10. No fade.
-\n\n========================================================================\nPART 10 — FULL PROMPT\n========================================================================\nSEEDANCE 2.5 | Part 10: The Vanishing Panda | 30 seconds | 16:9 | 24 fps | FINAL CLIP
+
+
+========================================================================
+PART 10 — FULL PROMPT
+========================================================================
+SEEDANCE 2.5 | Part 10: The Vanishing Panda | 30 seconds | 16:9 | 24 fps | FINAL CLIP
 Use child reference sakhi.Refernce.jpg and panda-reference.png. Preserve exact child identity, one-year-old proportions, gray outfit and panda markings. Original premium 3D family-animation craft, emotionally precise close-ups, controlled camera movement. No injury or gore.
 START: Use the actual final frame of Part 09 as the exact first frame. Preserve the child's pose, camera, light and river direction.
 00-01s: Wide 24mm from behind child; tiny figure stands on the enormous cliff shelf.
