@@ -1,39 +1,36 @@
-SEEDANCE 2.5 — VIDEO 09 — 30 SECONDS
-
-REFERENCE DECLARATION:
-Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 08. Same street and sunlight.
-
-GLOBAL STYLE:
-Photorealistic warm cinematic comedy, 24fps, 16:9, gentle camera movement, realistic material response.
-
-SCENE / INTENTION:
-The chase resolves through a simple physical exchange rather than dialogue. The panda gives the cup back and the child accepts.
-
-FIRST FRAME + BLOCKING:
-Child holds the lid. Panda stands several steps away with the cup. Preserve the exact positions.
-
-SHOT-BY-SHOT:
-0-5s, medium two-shot: panda takes one slow step forward, stops, then extends the cup toward the child with both paws.
-5-10s, close detail: child reaches forward and accepts the cup. The hands visibly make contact before the panda releases it.
-10-15s, medium: panda lowers its head slightly, then gestures toward the home direction with one paw. Child looks at home, then back at panda.
-15-20s, wide: panda turns to follow. Its shoulder brushes the same parked vehicle, producing a harmless hollow sound. Panda freezes, embarrassed by the noise.
-20-25s, close reaction: child laughs naturally and takes another bite. Panda sits down and waits.
-25-30s, rear tracking: child turns toward home and begins moving. Panda follows several steps behind at a calm walking pace.
-
-CAMERA / OPTICS:
-Gentle push-in for the handoff, close-up for the cup exchange, then wide rear tracking toward home.
-
-PHYSICS / CONTACT:
-The cup is transferred hand-to-paw with visible contact. Panda's vehicle bump is a light brush, not a collision. Child's movement remains age-appropriate.
-
-LIGHTING:
-Same daylight and visual grade.
-
-AUDIO:
-Warm version of the same musical theme, soft cup handling, light vehicle tap, child laughter, plush steps and Tehran ambience. No dialogue.
-
-HANDOFF:
-Final frame shows child moving toward home with the ice cream and panda following calmly. Part 10 starts from this exact generated frame.
-
-NEGATIVE:
-No magical facial expression changes, no duplicate props, no age/wardrobe change, no new people, no location drift.
+SEEDANCE 2.5 | Part 09: The Leap | 30 seconds | 16:9 | 24 fps
+Use child reference sakhi.Refernce.jpg and panda-reference.png. Preserve exact child identity, one-year-old proportions, gray outfit and panda markings. Original premium 3D family animation, elegant slow motion, clear spatial layout, expressive acting. No injury or gore.
+START: Use the actual final frame of Part 08 as the exact first frame.
+00-01s: Silent wide 24mm: child and panda hold position on the stone shelf.
+01-02s: Wind moves panda's fur and child's gray fabric.
+02-03s: Close on panda: fear shifts into calculation, then a brave spark.
+03-04s: Ice-cream cone tilts; one drop falls.
+04-05s: Close on child's furrowed brow and clenched tiny fists.
+05-06s: Panda gives a tiny apologetic shrug and steps backward.
+06-07s: Slow motion 50mm: panda springs from the cliff in a clean arc.
+07-08s: Camera tracks beside panda; cliff edge remains visible for clarity.
+08-09s: Cone slips free and spins separately in the air.
+09-10s: Panda reaches toward it but keeps its body balanced.
+10-11s: Cone splashes against a lower rock shelf and disappears.
+11-12s: Panda tucks into a safe diving posture.
+12-13s: Aerial downward 28mm: panda drops toward the river through waterfall mist.
+13-14s: Water surface rises in frame; motion stays graceful and non-graphic.
+14-15s: Panda enters feet-first with a huge stylized white splash.
+15-16s: Splash expands in layered rings; droplets catch sunlight.
+16-17s: Camera holds on turbulent foam; panda is not visible beneath it.
+17-18s: River current carries foam downstream around dark rocks.
+18-19s: Cut to child, 70mm; child reaches the edge but stops safely back.
+19-20s: Child peers down, furious, then confused as bubbles vanish.
+20-21s: A leaf drifts past child's face; child brushes it away.
+21-22s: Camera tilts down to river; no body or injury is shown.
+22-23s: Child grips a small rock; tiny fingers tense.
+23-24s: Wind pushes the gray hood as child stares into water.
+24-25s: Telephoto river surface: foam and eddies churn around dark rocks.
+25-26s: A shadow flickers beneath water for a fraction of a second, ambiguous.
+26-27s: Bubbles rise, pop, and leave ripples moving downstream.
+27-28s: Cut to child's eyes reflected in a puddle on the cliff rock.
+28-29s: Reflection trembles with wind; child straightens.
+29-30s: Child's face hardens into a furious silent glare; hold for the handoff.
+AUDIO: Music suspends during the leap, then returns as low brass and distant river. No dialogue, captions, logos or watermark.
+NEGATIVE: no injury, no body visible underwater, no duplicate characters, no face/age/outfit drift, no random camera shake, no teleporting, no text.
+HANDOFF: Export the actual final frame and use it as the exact first frame of Part 10. No fade.
