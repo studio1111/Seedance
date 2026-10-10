@@ -47,5 +47,13 @@ SHOT 5 | 20-25s | CRANE TO FAR BANK; panda lands and races toward rocky trail.
 24-25s: A distant amber seed pod glows through the trees.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Into the Glowing Clearing
+25-26s: Panda races through ferns toward the giant old tree.
+26-27s: Child reaches the far bank, brushes leaves from the helmet and follows.
+27-28s: Crane move reveals amber seed pods glowing in the canopy.
+28-29s: Panda passes under the first hanging pod, looking back.
+29-30s: Child enters the clearing beneath the tree; hold the glowing pods in frame for Part 05.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
-END FRAME: Both enter the clearing beneath a giant tree with glowing amber seed pods. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
+END FRAME: Both characters have reached the giant tree's glowing seed-pod clearing; export this actual final frame for Part 05. No fade.
