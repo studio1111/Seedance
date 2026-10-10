@@ -51,5 +51,13 @@ SHOT 5 | 20-25s | GROUND TRACK 28mm; child pops up and brushes leaves off gray c
 24-25s: Child slips on a leaf, spins seated, and scoots forward after panda.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Pursuit into the Bamboo
+25-26s: Child drops to all fours and crawls after panda into the first bamboo corridor.
+26-27s: Panda glances over shoulder, cone raised, then slips behind two trunks.
+27-28s: Low 28mm camera tracks beside the child; bamboo stalks wipe across foreground.
+28-29s: Child pushes through soft leaves and emerges determined, helmet crooked.
+29-30s: Panda's silhouette darts deeper into the maze; end on a stable forward-moving composition for Part 02.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapon, no actual bullets, no injury or panda impact, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no captions, no logo, no watermark.
-END FRAME: Child has landed in the fern clearing and begins crawling toward panda; make this last frame stable enough to use as Part 02's exact first frame. No fade.
+END FRAME: Child and panda are both entering the bamboo maze; export this actual final frame for Part 02. No fade.
