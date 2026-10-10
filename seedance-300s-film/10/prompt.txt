@@ -1,39 +1,36 @@
-SEEDANCE 2.5 — VIDEO 10 — 30 SECONDS — FINAL
-
-REFERENCE DECLARATION:
-Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 09. Same cup, same home/building entrance, same Tehran daylight.
-
-GLOBAL STYLE:
-Photorealistic cinematic family-comedy finale, 24fps, 16:9, warm natural daylight, restrained camera movement, realistic depth of field.
-
-SCENE / INTENTION:
-The chase ends at home with a small physical gesture of reconciliation. The final image should feel earned, calm and continuous with the previous nine parts.
-
-FIRST FRAME + BLOCKING:
-Child is already moving toward the established home/building entrance. Panda follows several steps behind. Preserve the exact screen direction from Part 09.
-
-SHOT-BY-SHOT:
-0-5s, rear tracking: child moves toward the entrance while eating. Panda follows at a relaxed pace, no longer chasing.
-5-10s, medium front reveal: child reaches the entrance, stops and turns back. Panda stops at a respectful distance.
-10-15s, medium two-shot: child raises the ice-cream cup slightly toward panda as a playful peace gesture. Panda tilts its head, then gives a small paw wave. Keep the plush face physically unchanged.
-15-20s, close child shot: child takes one final happy bite, lowers the cup and looks toward the doorway.
-20-25s, wide: child turns and moves into the home/building entrance. Panda remains outside, then takes a few calm steps forward.
-25-30s, slow pull-back and slight rise: camera widens to show the familiar street, entrance, child and panda together. Hold the final composition long enough to read as a conclusion.
-
-CAMERA / OPTICS:
-Rear tracking, medium reveal, restrained two-shot, close-up only for the final bite, then slow pull-back. No sudden crane or drone movement.
-
-PHYSICS / CONTACT:
-Child remains age-appropriate. Panda's wave is a simple paw lift, not a magical facial animation. Cup stays in the child's hand. No object duplication.
-
-LIGHTING:
-Same sun direction and daytime continuity from Part 09. Warm but physically motivated natural light.
-
-AUDIO:
-Full cheerful finale of the established musical theme, soft residential ambience, subtle plush steps, doorway movement and a gentle final musical cadence. No dialogue.
-
-FINAL HANDOFF / END:
-This is the final part. Do not create a fictional future frame. End on the generated final composition.
-
-NEGATIVE:
-No character redesign, age change, wardrobe change, extra people, extra panda, duplicate ice cream, real animal panda, magical facial morphing, text, logos, cartoon rendering, weather/time change, teleportation.
+SEEDANCE 2.5 | Part 10: The Vanishing Panda | 30 seconds | 16:9 | 24 fps | FINAL CLIP
+Use child reference sakhi.Refernce.jpg and panda-reference.png. Preserve exact child identity, one-year-old proportions, gray outfit and panda markings. Original premium 3D family-animation craft, emotionally precise close-ups, controlled camera movement. No injury or gore.
+START: Use the actual final frame of Part 09 as the exact first frame. Preserve the child's pose, camera, light and river direction.
+00-01s: Wide 24mm from behind child; tiny figure stands on the enormous cliff shelf.
+01-02s: Child scans river left to right, shoulders rising with each breath.
+02-03s: A distant swirl moves behind a boulder; no panda appears.
+03-04s: Child lifts both hands in frustration, then lowers them.
+04-05s: Camera slowly dollies closer; child's posture becomes rigid.
+05-06s: Low angle 35mm; child takes one step away from edge, then stops.
+06-07s: A pebble rolls past child's foot and vanishes over the lip.
+07-08s: Crooked helmet and a leaf stuck to the gray sleeve are visible.
+08-09s: Child removes the leaf carefully and crushes it in a tiny fist.
+09-10s: Wind carries leaf fragments away.
+10-11s: Child stares at the empty water again.
+11-12s: River-search POV 70mm scans foam eddies, reeds and far bank.
+12-13s: A branch bobs on the surface, turns once and drifts away.
+13-14s: Two bubbles rise near a dark rock and burst.
+14-15s: Nothing else breaks the water; no panda reveal.
+15-16s: Camera pans back to cliff shelf, child small above canyon.
+16-17s: Child leans to look but stays safely back from the edge.
+17-18s: Medium close-up 50mm; disbelief shifts into a fierce scowl.
+18-19s: Jaw tightens; eyebrows angle down; cheeks puff.
+19-20s: A distant splash echoes; child's eyes snap toward sound.
+20-21s: Child turns back toward camera, shoulders squared.
+21-22s: Both hands hang stiffly at child's sides.
+22-23s: Music drops to one low comic orchestral note.
+23-24s: Restrained pulse begins beneath the wind and river.
+24-25s: Final extreme close-up 85mm; slow push toward the angry face.
+25-26s: Waterfall behind dissolves into soft bokeh.
+26-27s: A droplet of mist lands on child's nose; child does not blink.
+27-28s: Crooked helmet shifts slightly in wind; glare intensifies.
+28-29s: Hold on locked furious expression; only the eyes track unseen panda downstream.
+29-30s: One low brass note resolves; hard cut to black at exactly 30.0 seconds.
+AUDIO: Wind, distant river and a restrained orchestral comedy-suspense pulse. No dialogue, captions, logos or watermark.
+NEGATIVE: no panda reveal, no injury, no duplicate characters, no face/age/outfit drift, no random camera shake, no teleporting, no text, no post-credit shot.
+FINAL ENDING: Hold on the furious extreme close-up, then hard cut to black at exactly 30.0 seconds. No title card, no fade, no post-credit shot.
