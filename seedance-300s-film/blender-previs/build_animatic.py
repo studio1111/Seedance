@@ -206,6 +206,8 @@ def make_environment(scene, part):
     lo.rotation_euler=(math.radians(28),math.radians(-22),math.radians(-30)); ld.energy=2.0
     area_data=bpy.data.lights.new(f"P{part:02d} Fill","AREA"); area=bpy.data.objects.new(f"P{part:02d} Fill",area_data); scene.collection.objects.link(area)
     area.location=(0,-8,10); area_data.energy=1500; area_data.shape="DISK"; area_data.size=8
+    if scene.world is None:
+        scene.world = bpy.data.worlds.new(f"P{part:02d} World")
     scene.world.color=(0.07,0.07,0.07)
     return ground
 
