@@ -47,5 +47,13 @@ SHOT 5 | 20-25s | AERIAL FOLLOW; chase circles the giant tree beneath glowing ca
 24-25s: Both race toward the rocky passage as water grows louder.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Into the Rock Passage
+25-26s: Panda slips between two boulders at the edge of the clearing.
+26-27s: Child rushes after it, pollen sparkling on the gray outfit.
+27-28s: Camera lowers toward the dark rocky passage and reveals the narrow trail.
+28-29s: Panda's silhouette crosses the entrance as water roars in the distance.
+29-30s: Child follows into the rocky passage; end on a stable forward-moving frame for Part 06.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
-END FRAME: Both race into a dark rocky passage while the sound of rushing water grows louder. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
+END FRAME: Both characters are entering the rocky passage; export this actual final frame for Part 06. No fade.
