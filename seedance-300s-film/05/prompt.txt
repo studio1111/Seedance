@@ -1,39 +1,51 @@
-SEEDANCE 2.5 — VIDEO 05 — 30 SECONDS
+SEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
+Character lock: child reference "sakhi.Refernce.jpg", exact one-year-old identity and gray outfit; panda reference "panda-reference.png", one living expressive panda with consistent markings. Bright toy foam poppers produce harmless colorful foam only. Magical seed-pod bursts scatter pollen and leaves away from characters. No injuries, gore, realistic weapons or harm to panda.
+Camera: purposeful 24–85mm lens choices, clear geography, stable screen direction, motivated tracking and brief slow motion. Audio: original orchestral comedy-action score, forest ambience, foam splats, rope and foliage foley; no dialogue, text, logo or watermark.
 
-REFERENCE DECLARATION:
-Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 04. Same ice-cream cup and same neighborhood.
+PART 05: The Glowing Seed-Pod Spectacle
+SCENE INTENTION: A giant tree's glowing seed pods pop like magical fireworks, scattering pollen and leaves as the chase becomes spectacular but harmless.
+START FRAME: Use the actual final frame exported from Part 04 as the exact first frame, plus both character references.
+EXACT SECOND-BY-SECOND TIMELINE. Each row covers that one-second interval; do not reorder or skip.
 
-GLOBAL STYLE:
-Photorealistic residential chase, grounded comedy, 24fps, 16:9, realistic inertia and contact.
+SHOT 1 | 0-5s | WIDE 24mm; amber seed pods hang above the trail.
+00-01s: Panda darts beneath pods; child follows with foam popper raised.
+01-02s: A foam glob clips a pod's outer husk.
+02-03s: Pod bursts in a huge golden pollen plume like a leaf-firework.
+03-04s: A dead branch breaks into soft stylized chunks across the empty path.
+04-05s: Panda slips through a gap; child sneezes a glittering pollen puff.
+At 5s, cut on movement and preserve screen direction.
 
-SCENE / INTENTION:
-The panda returns to street level and tries to disappear into a narrowing alley. The environment itself gradually removes its escape options.
+SHOT 2 | 5-10s | FAST DOLLY; panda weaves through trunks as pods pop behind.
+05-06s: Golden burst backlights panda leaping over a root in slow motion.
+06-07s: Child ducks under a falling curtain of leaves.
+07-08s: A foam glob hits a hollow stump; colored spores fountain upward.
+08-09s: Spores settle on gray clothes like confetti.
+09-10s: Child glares at the outfit, then resumes the chase.
+At 10s, cut on movement and preserve screen direction.
 
-FIRST FRAME + BLOCKING:
-Panda is on the same vehicle roof below the rooftop. Child is above at the edge. Preserve the exact spatial relationship from Part 04.
+SHOT 3 | 10-15s | SLOW MOTION 70mm; panda leaps a narrow gap as pod blooms behind.
+10-11s: Leaves and soft wood fragments fan outward away from characters.
+11-12s: Panda tucks and rolls onto moss with cone held high.
+12-13s: Ice cream wobbles but stays in cone.
+13-14s: Child emerges through drifting leaves, eyes wide.
+14-15s: Speed returns; child slides forward on knees across a glossy leaf.
+At 15s, cut on movement and preserve screen direction.
 
-SHOT-BY-SHOT:
-0-5s, low vehicle shot: panda climbs down from the roof using the hood and side edge, lands on the sidewalk and immediately runs.
-5-10s, medium follow: child takes the safe building route to street level. The child is always primarily crawling and never suddenly runs.
-10-15s, lateral tracking: panda hides behind the same parked vehicle, peeks around it, sees the child, then darts away. Its cup remains in both paws.
-15-20s, close-to-wide: panda clips a small stack of empty cardboard boxes with its hip. Boxes slide and collapse with believable light mass. Panda stumbles, recovers and continues.
-20-25s, forward alley track: panda turns into the established narrow alley. Child follows, crawling quickly. The walls visibly get closer together.
-25-30s, rear wide: panda reaches the dead-end wall and slows abruptly. Child enters the alley behind it. Both are now trapped in the same geometry.
+SHOT 4 | 15-20s | LOW TRACK 28mm; child slides beneath a low branch.
+15-16s: Panda scrambles up a staircase of roots.
+16-17s: A pod pops beside trail; a ring of light bends nearby ferns.
+17-18s: Child is gently pushed backward into soft leaves by the gust.
+18-19s: Only helmet and hands remain visible in the collapsed pile.
+19-20s: Child rises with a twig like a tiny general's baton.
+At 20s, cut on movement and preserve screen direction.
 
-CAMERA / OPTICS:
-Street-level tracking, one short close-up of the boxes, then a long forward move into the narrowing alley. Keep the escape direction visible.
+SHOT 5 | 20-25s | AERIAL FOLLOW; chase circles the giant tree beneath glowing canopy.
+20-21s: Panda doubles back, leaving false pawprints in wet moss.
+21-22s: Child follows the false trail for two seconds.
+22-23s: Child notices the prints face backward and pivots sharply.
+23-24s: A final pod bursts behind child, rim-lighting the silhouette.
+24-25s: Both race toward the rocky passage as water grows louder.
+At 25s, cut on movement and preserve screen direction.
 
-PHYSICS / CONTACT:
-Cardboard boxes are lightweight and move separately. Panda's stumble is caused by contact with the boxes, not a supernatural reaction. Child maintains ground contact.
-
-LIGHTING:
-Same sunny daylight entering the alley. No sudden exposure change.
-
-AUDIO:
-Music becomes tense but playful. Cardboard scraping, soft impact, plush footsteps, child movement and neighborhood ambience.
-
-HANDOFF:
-Final frame clearly establishes the dead-end wall, panda at the far end and child entering behind. Part 06 begins from this exact frame.
-
-NEGATIVE:
-No injury, no extra vehicles or people, no duplicate cup, no different alley, no teleportation, no cartoon transformation.
+NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
+END FRAME: Both race into a dark rocky passage while the sound of rushing water grows louder. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
