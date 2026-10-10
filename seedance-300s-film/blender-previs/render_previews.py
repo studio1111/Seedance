@@ -1,7 +1,6 @@
 import bpy, os, re
 
-ROOT = os.path.dirname(bpy.data.filepath)
-OUT = os.path.join(ROOT, "output")
+OUT = os.path.dirname(bpy.data.filepath)
 os.makedirs(OUT, exist_ok=True)
 
 scenes = sorted(
