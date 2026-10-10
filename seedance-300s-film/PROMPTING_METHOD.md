@@ -41,3 +41,14 @@ The child uses colorful toy foam props; large bursts are magical seed-pod firewo
 - [ ] Audio supports action without dialogue or text.
 - [ ] No injury, gore, text, logo or watermark.
 - [ ] Actual last frame is used as the next clip's first frame.
+
+## Research sources
+
+- Seedance 2.5 prompt structure, reference roles and continuous timelines: https://docs.seedance.tv/en/seedance-2-5-prompting-guide
+- Higgsfield Seedance 2.5 prompting guide: https://higgsfield.ai/blog/seedance-2-5-prompting-guide
+- Pixar in a Box: https://www.pixar.com/pixar-in-a-box
+- Pixar virtual-camera storytelling lesson: https://en.khanacademy.org/computing/pixar/virtual-cameras/virtual-cameras-1/v/virtual-cameras-5
+- Netflix Tudum, animation, emotion and imaginative world design in *In Your Dreams*: https://www.netflix.com/tudum/articles/in-your-dreams-making-of
+- Netflix Tudum, comparing storyboards with the final film in *The Sea Beast*: https://www.netflix.com/tudum/videos/compare-the-storyboards-of-the-sea-beast-to-the-final-film
+
+These sources inform general filmmaking and prompt-structure principles only. The project uses an original story and does not reproduce any studio's protected characters or exact shots.
