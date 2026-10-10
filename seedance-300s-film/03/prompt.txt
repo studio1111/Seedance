@@ -47,5 +47,13 @@ SHOT 5 | 20-25s | LONG LENS 70mm; both race uphill through layered foliage.
 24-25s: A rope bridge and huge old tree appear ahead.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Up to the Rope Bridge
+25-26s: Child follows panda up the final stretch of the hill.
+26-27s: Panda bounds over a root and glances back at the child.
+27-28s: The camera rises to reveal the rope bridge spanning the ravine.
+28-29s: Child pauses, looks at the bridge, then resumes crawling.
+29-30s: Panda steps onto the near end of the bridge; hold geography clearly for Part 04.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
-END FRAME: Both crest the hill into a clearing where the rope bridge becomes visible. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
+END FRAME: Rope bridge is fully visible and panda is at its entrance; export this actual final frame for Part 04. No fade.
