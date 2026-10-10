@@ -1,39 +1,36 @@
-SEEDANCE 2.5 — VIDEO 08 — 30 SECONDS
-
-REFERENCE DECLARATION:
-Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 07.
-
-GLOBAL STYLE:
-Photorealistic residential action-comedy, 24fps, 16:9, realistic camera inertia, natural daylight.
-
-SCENE / INTENTION:
-The final chase is shorter and more emotional. The panda tires, loses the lid, and realizes the game has gone too far.
-
-FIRST FRAME + BLOCKING:
-Panda exits the alley ahead. Child exits behind. Preserve exact screen direction.
-
-SHOT-BY-SHOT:
-0-5s, low rear tracking: panda runs along the established street. Child crawls after it, gaining slowly.
-5-10s, lateral track: panda goes around the same parked car. Its body leans into the turn, then corrects.
-10-15s, low child follow: child takes the inside line around the car and closes the distance. Hands and knees alternate naturally.
-15-20s, medium front angle: panda reaches the established open intersection, slows from fatigue and looks back. The cup remains in one paw.
-20-25s, close-to-wide: the loose ice-cream lid slips from the cup and falls. It strikes the pavement with a small plastic sound. Panda stops and looks down at it.
-25-30s, wide two-shot: child reaches the lid, picks it up, and faces panda. Panda stays several steps away holding the cup.
-
-CAMERA / OPTICS:
-Low tracking for the chase, one lateral vehicle shot, one front reaction shot, final wide two-shot. Keep both subjects visible at important moments.
-
-PHYSICS / CONTACT:
-Panda slows gradually rather than stopping instantly. Lid falls under gravity and bounces once naturally. Child grips it with both hands.
-
-LIGHTING:
-Same sunny intersection, consistent shadows and exposure.
-
-AUDIO:
-Music decelerates into a humorous standoff motif. Lid click, soft foot/paw sounds and neighborhood ambience.
-
-HANDOFF:
-Final frame holds child with the lid and panda with the cup facing each other. Part 09 starts from this exact frame.
-
-NEGATIVE:
-No duplicate lid, no duplicate cup, no extra characters, no sudden emotional morphing, no text, no weather/time change.
+SEEDANCE 2.5 | Part 08: The Ridge of False Triumph | 30 seconds | 16:9 | 24 fps
+Use child reference sakhi.Refernce.jpg and panda-reference.png. Preserve exact child identity, one-year-old proportions, gray outfit and panda markings. Original premium 3D family-animation craft, readable geography, expressive acting, motivated camera. No injury or gore.
+START: Use the actual final frame of Part 07 as the exact first frame.
+00-01s: Extreme wide 24mm: ridge curves above a broad river canyon.
+01-02s: Panda runs along the rim; child follows well back from the edge.
+02-03s: Panda hides behind a tall rock spire and vanishes.
+03-04s: A paw appears on the opposite side and waves; child spins, bewildered.
+04-05s: Panda dashes down a lower trail with the ice-cream cone held high.
+05-06s: Child scrambles after it.
+06-07s: Side track 35mm: both run along a broad ledge with a rock wall inland.
+07-08s: Panda hops over a crack; child measures it with a tiny finger.
+08-09s: Child takes a short run and lands belly-first safely beyond the crack.
+09-10s: A loose slab shifts behind them and breaks into soft chunks far away.
+10-11s: Child looks back at the noise.
+11-12s: Panda uses the pause to vanish around a bend.
+12-13s: Long lens 70mm: panda crosses a natural stone arch against waterfall mist.
+13-14s: A bright colored splat marks a distant rock.
+14-15s: Panda ducks in slow motion as a leaf passes its nose.
+15-16s: Panda lands behind a boulder.
+16-17s: Camera pans to child arriving one beat too late.
+17-18s: Child clenches tiny fists and resumes the determined crawl.
+18-19s: Handheld follow 28mm: trail splits around a tall rock needle.
+19-20s: Panda doubles back through a hidden inner path.
+20-21s: Child sees panda reflected in a puddle behind.
+21-22s: Child pivots and crawls a tight circle before correcting direction.
+22-23s: Panda peeks out, impressed, then hurries toward the final platform.
+23-24s: Wind lifts leaves across lens as a natural wipe.
+24-25s: Wide reveal: panda reaches a broad stone shelf above the river.
+25-26s: Child enters from the opposite side; both face each other across bare rock.
+26-27s: Panda looks left, right, then down at the rushing river.
+27-28s: Child advances one small step; expression intensely determined.
+28-29s: Panda backs toward the cliff lip, testing the stone.
+29-30s: Camera dollies toward the empty drop; rushing water fills the score.
+AUDIO: Orchestral suspense pulses over wind, distant river and loose gravel. No dialogue, captions, logos or watermark.
+NEGATIVE: no injury, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no unsafe debris.
+HANDOFF: Export the actual final frame and use it as the exact first frame of Part 09. No fade.
