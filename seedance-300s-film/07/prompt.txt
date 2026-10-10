@@ -1,39 +1,36 @@
-SEEDANCE 2.5 — VIDEO 07 — 30 SECONDS
-
-REFERENCE DECLARATION:
-Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 06. Same ice cream, same rubble and same alley.
-
-GLOBAL STYLE:
-Photorealistic warm comedy, 24fps, 16:9, restrained camera movement and believable reactions.
-
-SCENE / INTENTION:
-The conflict appears finished, but a misunderstanding starts the chase again. The panda is not malicious, just tempted and clumsy.
-
-FIRST FRAME + BLOCKING:
-Child sits safely with the ice cream. Panda sits in the same rubble, recovering.
-
-SHOT-BY-SHOT:
-0-5s, medium close: child takes a happy bite. Panda watches the cup, then looks away as if trying to behave.
-5-10s, slow push-in: panda cautiously extends one paw toward the cup. Child pulls the cup back. Panda immediately stops and lowers the paw.
-10-15s, two-shot: panda gestures toward the home direction with a small head tilt and open paw, then looks at the child. Child studies panda.
-15-20s, close reaction: a loose piece of cardboard slides down the rubble. Panda startles, rolls backward once and lands on its padded feet.
-20-25s, wide: panda instinctively starts running toward the alley exit. Child interprets this as another theft attempt and immediately resumes the chase.
-25-30s, smooth rear tracking: panda exits toward the same street, child follows rapidly on hands and knees.
-
-CAMERA / OPTICS:
-Start calm and intimate, then transition into a smooth street-level chase. Avoid abrupt camera jumps.
-
-PHYSICS / CONTACT:
-Panda's roll is caused by the cardboard slipping under it. Child reacts after seeing panda move, not before. Ice cream stays secure.
-
-LIGHTING:
-Same daylight and alley exposure.
-
-AUDIO:
-Music briefly softens, then snaps back into playful pursuit rhythm. Cardboard slide, plush roll, footsteps and Tehran ambience.
-
-HANDOFF:
-Final frame shows both exiting the alley into the same street, panda several meters ahead. Part 08 begins from this exact frame.
-
-NEGATIVE:
-No supernatural reactions, no extra people, no extra panda, no extra cup, no injury, no location jump, no identity drift.
+SEEDANCE 2.5 | Part 07: The Firefly Grove | 30 seconds | 16:9 | 24 fps
+Use child reference sakhi.Refernce.jpg and panda-reference.png. Preserve the child's exact one-year-old identity, gray outfit and panda markings. Original premium 3D family animation, readable action, purposeful camera, expressive comedy. No injury or gore.
+START: Use the actual final frame of Part 06 as the exact first frame.
+00-01s: Wide 24mm view of a luminous grove, blue-green bulbs hovering among roots.
+01-02s: Panda threads carefully between the glowing bulbs.
+02-03s: Child brushes one bulb with the helmet; it pulses like a lantern.
+03-04s: Bulbs light sequentially behind the child, forming an accidental runway.
+04-05s: Panda ducks beneath a low root arch.
+05-06s: Child follows too fast and softly bumps the padded helmet against the root.
+06-07s: Macro view of a translucent seed pod touched by a bright harmless colored splat.
+07-08s: The pod inflates like a balloon, then pops in a bright magical flash.
+08-09s: Nearby pods pop one after another, puffing colored pollen.
+09-10s: Panda zigzags through the bursts in a smooth lateral tracking shot.
+10-11s: Child pauses at one pop, blinks, then surges forward.
+11-12s: A spiral of leaves rises and reveals panda climbing a root wall.
+12-13s: Slow motion, 50mm: panda springs from root to root above glowing bursts.
+13-14s: Panda tucks its paws close and concentrates.
+14-15s: Ice-cream cone slips; panda catches it midair without losing balance.
+15-16s: Child watches with mouth open.
+16-17s: The child's toy prop makes a squeaky sound, purely comic.
+17-18s: A leaf shower drops around the child as speed returns.
+18-19s: Dynamic orbit around a massive trunk as panda circles it.
+19-20s: Child approaches from the opposite side; both stop with only eyes peeking around bark.
+20-21s: They peek left, right, then left in synchronized comic rhythm.
+21-22s: Panda darts through a hollow opening.
+22-23s: Child crawls in and gets gently stuck at the backpack.
+23-24s: Child backs out with a soft pop and sees panda racing away.
+24-25s: Crane rises as chase climbs toward an exposed cliff path.
+25-26s: Glowing bulbs pulse behind them in a golden wave.
+26-27s: Panda reaches ridge and sees the river canyon; its grin fades to alarm.
+27-28s: Child emerges through ferns, breathing hard.
+28-29s: Camera reveals the cliff edge and white water far below.
+29-30s: Both turn toward the final rocky shelf; end with stable geography for Part 08.
+AUDIO: Orchestral comedy-action score, soft magical pops, leaves, crawling, distant river. No dialogue, captions, logo or watermark.
+NEGATIVE: no injury, no duplicate characters, no face/age/outfit drift, no random camera shake, no teleporting, no unsafe debris.
+HANDOFF: Export the actual final frame and use it as the exact first frame of Part 08. No fade.
