@@ -13,3 +13,8 @@ Use both character references for every clip. For Parts 2–10, attach the actua
 
 ## Visual direction
 Original premium 3D family-animation craft, expressive character acting, motivated cinematic camera moves, precise action timing, coherent geography, magical nonlethal visual effects, no injury, no gore, no text or watermark.
+
+
+## Blender previs
+
+A rough 3D blocking pass with ten 30-second scenes, proxy characters and camera keyframes can be generated through GitHub Actions. See [Blender previs instructions](blender-previs/README.md) and the [generator script](blender-previs/build_animatic.py).
