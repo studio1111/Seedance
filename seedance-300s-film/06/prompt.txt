@@ -1,39 +1,36 @@
-SEEDANCE 2.5 — VIDEO 06 — 30 SECONDS
-
-REFERENCE DECLARATION:
-Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 05. Same cup and same dead-end alley.
-
-GLOBAL STYLE:
-Photorealistic slapstick action with safe practical effects, 24fps, 16:9, believable contact and material deformation.
-
-SCENE / INTENTION:
-The panda is trapped. The confrontation is funny rather than violent. A small accidental push creates a controlled breakaway-wall gag.
-
-FIRST FRAME + BLOCKING:
-Panda faces the dead-end wall. Child enters behind it. Preserve exact spacing from Part 05.
-
-SHOT-BY-SHOT:
-0-5s, wide locked shot: panda reaches the wall, stops, looks left, right, then back at the child. It realizes there is no exit.
-5-10s, medium alternating coverage: child crawls closer. Panda hides the cup behind its back. Child reaches one hand toward it. Panda shifts the cup away.
-10-15s, close low shot: panda tries to squeeze past the child but its wide plush belly catches between the narrow walls. It rocks forward and backward, trying to free itself.
-15-20s, medium two-shot: child raises a tiny fist, pauses, then gives the panda one gentle comedic push to the soft belly. The plush compresses visibly and rebounds.
-20-25s, wide side angle: the panda loses balance backward and bumps a clearly lightweight non-load-bearing breakaway wall panel. The panel cracks along a prepared seam, dust puffs outward, and lightweight pieces fall away.
-25-30s, stable wide: panda lands safely in the light rubble, unharmed. Child retrieves the ice-cream cup. Panda remains seated and dazed only in a comic physical sense.
-
-CAMERA / OPTICS:
-Locked wide for geography, close-up for the belly compression, medium two-shot for the push, wide side angle for the breakaway effect. Do not cut away from the actual contact.
-
-PHYSICS / CONTACT:
-This is a harmless slapstick effect. No injury, blood or gore. Wall material is explicitly lightweight breakaway construction. Dust is fine and settles naturally. Plush belly compresses, then returns to shape.
-
-LIGHTING:
-Same daylight, dust catches the existing sunlight without changing the scene.
-
-AUDIO:
-Music hits a comic accent on the push and wall collapse. Soft plush thump, lightweight crack, small dust/rubble sounds, then cheerful music returns. No dialogue.
-
-HANDOFF:
-Final frame holds child seated with the recovered ice cream and panda safely visible in the same rubble. Part 07 starts from this exact frame.
-
-NEGATIVE:
-No realistic injury, blood, gore, broken bones, dangerous structural collapse, child impact, duplicate characters, duplicate ice cream, identity drift, cartoon rendering.
+SEEDANCE 2.5 | Part 06: The Rolling Rock Run | 30 seconds | 16:9 | 24 fps
+Use the child reference sakhi.Refernce.jpg and panda-reference.png. Preserve the same child identity, gray outfit and panda markings. Original premium 3D family animation, clear geography, motivated camera, expressive comedy, realistic gravity, no injury or gore.
+START: Use the actual last frame of Part 05 as this clip's exact first frame.
+00-01s: Establish the sloping rock corridor and fern meadow with a 24mm wide shot.
+01-02s: Panda darts between rounded mossy rocks; child follows.
+02-03s: A round mossy stone begins wobbling on a ledge.
+03-04s: Panda taps it with a twig; it rolls slowly down the empty trail.
+04-05s: Child notices and scrambles into a shallow safe alcove.
+05-06s: The stone rushes past foreground with a comic bass swell.
+06-07s: Front tracking shot follows panda glancing back.
+07-08s: Child crawls along the path as a smaller stone rolls behind.
+08-09s: Child ducks through a low arch.
+09-10s: The stone bumps a mossy rim and veers away.
+10-11s: It stops in a sandbank with a soft puff.
+11-12s: Child gives a proud thumbs-up, then sees panda gaining distance.
+12-13s: Overhead shot shows panda crossing zigzag flat stones.
+13-14s: The rolling stone follows the curve of the empty trail.
+14-15s: Panda jumps left while the stone rolls right with wide clearance.
+15-16s: Slow motion catches panda's ears fluttering during the twist.
+16-17s: Panda lands on moss and slides with cone upright.
+17-18s: Child attempts a jump, makes a tiny hop, and lands seated.
+18-19s: Whip-pan follows panda slipping beneath a fallen trunk.
+19-20s: Child tries to climb over and slides gently backward.
+20-21s: Child crawls beneath the trunk before the stone arrives.
+21-22s: The stone nudges rotten logs; they break into soft stylized chunks and dust.
+22-23s: Dust fills frame; no debris reaches either character.
+23-24s: Panda's silhouette flashes through dust toward a ridge.
+24-25s: Long-lens view reveals panda far ahead.
+25-26s: Child emerges coated in leaves, still fiercely serious.
+26-27s: Panda turns and runs as the trail narrows.
+27-28s: The river and waterfall appear far below.
+28-29s: Child drops to all fours and accelerates.
+29-30s: Both vanish around the ridge bend; end on a stable frame for Part 07.
+AUDIO: Original orchestral comedy-action score, forest ambience, rolling stone rumble, leaf rustle, distant waterfall. No dialogue, no text, no logo, no watermark.
+NEGATIVE: no injuries, gore, duplicate characters, face or outfit drift, extra limbs, random camera shake, teleporting, unsafe debris impact, or unexplained time jump.
+HANDOFF: Export this actual final frame and use it as the exact first frame of Part 07. No fade.
