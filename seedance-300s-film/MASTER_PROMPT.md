@@ -3,22 +3,21 @@
 **Total runtime: 300 seconds.** Generate ten connected clips of exactly 30 seconds each.
 
 ## Story
-A determined one-year-old child arrives by helicopter at a lush bamboo forest and chases a clever panda carrying an ice-cream cone. The pursuit crosses a bamboo maze, a stream, a rope bridge, a grove of magical glowing seed pods, a rolling-stone corridor and a rocky ridge. Finally, the panda jumps into the river and vanishes beneath the foam. The child looks down in furious disbelief; the film ends on an intense close-up.
+A determined one-year-old child arrives by helicopter at a lush bamboo forest and chases a clever panda carrying an ice-cream cone. The pursuit crosses a bamboo maze, stream, rope bridge, magical glowing seed pods, a rolling-stone corridor and a rocky ridge. Finally, the panda jumps into the river and vanishes beneath the foam. The child looks down in furious disbelief; the film ends on an intense close-up.
 
-## References and global production locks
-- Child identity reference: `sakhi.Refernce.jpg`. Preserve exact face, age, proportions, gray outfit and gray socks.
-- Panda design reference: `panda-reference.png`. Preserve markings, scale and facial proportions; animate as a living expressive panda.
+## Character and visual locks
+- Child reference: `sakhi.Refernce.jpg`. Preserve exact face, one-year-old age, proportions, gray outfit and gray socks.
+- Panda reference: `panda-reference.png`. Preserve markings, scale and facial proportions; animate as a living expressive panda.
 - Original premium 3D family-animation craft, motivated camera, readable geography, expressive acting, tactile fur and fabric, coherent daylight and controlled motion blur.
-- Use 16:9, 24 fps, 1080p where available, and native audio.
-- Each clip has six five-second shot blocks with explicit second-by-second beats.
-- Family-safe spectacle only: colorful toy foam props and magical seed-pod bursts. No injury, gore, realistic weapons or harm to panda.
-- Original orchestral comedy-action score; forest, rotor, rope, water, foliage and magical-pop foley. No dialogue, captions, logos or watermark.
+- 16:9, 24 fps, 1080p where available, native audio.
+- Family-safe spectacle: colorful toy foam props and magical seed-pod bursts only. No injury, gore, realistic weapons or harm to panda.
+- Original orchestral comedy-action score, forest/rotor/rope/water/foliage foley. No dialogue, captions, logos or watermark.
 
 ## Critical continuity protocol
-Part 1 uses both character references. For Parts 2–10, attach both character references and the **actual final frame exported from the immediately previous clip** as the exact start frame. Never invent a handoff image. Preserve pose, camera, screen direction, lighting, wardrobe, props and motion. Export each real last frame before generating the next part. Part 10 ends on a hard cut to black at exactly 30.0 seconds.
+Part 1 uses both character references. Parts 2–10 must use both references and the **actual final frame exported from the immediately previous clip** as the exact start frame. Never invent a handoff image. Preserve pose, camera, screen direction, lighting, wardrobe, props and motion. Export each real last frame before generating the next part. Part 10 ends on a hard cut to black at exactly 30.0 seconds.
 
 ## Full standalone prompts
-Use the matching individual `01/prompt.txt` through `10/prompt.txt` for generation. The full prompts are reproduced here for review and backup.
+Use the matching individual `01/prompt.txt` through `10/prompt.txt` for generation. The complete prompts are reproduced here for review and backup.
 
 ## PART 01
 
@@ -76,8 +75,16 @@ SHOT 5 | 20-25s | GROUND TRACK 28mm; child pops up and brushes leaves off gray c
 24-25s: Child slips on a leaf, spins seated, and scoots forward after panda.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Pursuit into the Bamboo
+25-26s: Child drops to all fours and crawls after panda into the first bamboo corridor.
+26-27s: Panda glances over shoulder, cone raised, then slips behind two trunks.
+27-28s: Low 28mm camera tracks beside the child; bamboo stalks wipe across foreground.
+28-29s: Child pushes through soft leaves and emerges determined, helmet crooked.
+29-30s: Panda's silhouette darts deeper into the maze; end on a stable forward-moving composition for Part 02.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapon, no actual bullets, no injury or panda impact, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no captions, no logo, no watermark.
-END FRAME: Child has landed in the fern clearing and begins crawling toward panda; make this last frame stable enough to use as Part 02's exact first frame. No fade.
+END FRAME: Child and panda are both entering the bamboo maze; export this actual final frame for Part 02. No fade.
 
 ```
 
@@ -135,8 +142,16 @@ SHOT 5 | 20-25s | HIGH ANGLE CRANE; panda reaches a fork by a glittering stream.
 24-25s: Panda crosses the far bank, keeping the same screen direction.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | The Stream Fork
+25-26s: Child rushes back from the wrong trail, brushing leaves from the gray outfit.
+26-27s: Panda lands on the far bank and pauses beside the stream.
+27-28s: Camera pans to reveal stepping stones and the bright water crossing.
+28-29s: Child reaches the near bank, still crawling quickly.
+29-30s: Panda turns toward the stepping stones; hold a clear wide composition for Part 03.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapon, no actual bullets, no injury or panda impact, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no captions, no logo, no watermark.
-END FRAME: Panda has reached the stream fork while child rushes back from the dead-end; compose a stable frame to begin Part 03. Export the actual last frame. No fade.
+END FRAME: Panda stands at the stream crossing and child reaches the near bank; export this actual final frame for Part 03. No fade.
 
 ```
 
@@ -194,8 +209,16 @@ SHOT 5 | 20-25s | LONG LENS 70mm; both race uphill through layered foliage.
 24-25s: A rope bridge and huge old tree appear ahead.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Up to the Rope Bridge
+25-26s: Child follows panda up the final stretch of the hill.
+26-27s: Panda bounds over a root and glances back at the child.
+27-28s: The camera rises to reveal the rope bridge spanning the ravine.
+28-29s: Child pauses, looks at the bridge, then resumes crawling.
+29-30s: Panda steps onto the near end of the bridge; hold geography clearly for Part 04.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
-END FRAME: Both crest the hill into a clearing where the rope bridge becomes visible. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
+END FRAME: Rope bridge is fully visible and panda is at its entrance; export this actual final frame for Part 04. No fade.
 
 ```
 
@@ -253,8 +276,16 @@ SHOT 5 | 20-25s | CRANE TO FAR BANK; panda lands and races toward rocky trail.
 24-25s: A distant amber seed pod glows through the trees.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Into the Glowing Clearing
+25-26s: Panda races through ferns toward the giant old tree.
+26-27s: Child reaches the far bank, brushes leaves from the helmet and follows.
+27-28s: Crane move reveals amber seed pods glowing in the canopy.
+28-29s: Panda passes under the first hanging pod, looking back.
+29-30s: Child enters the clearing beneath the tree; hold the glowing pods in frame for Part 05.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
-END FRAME: Both enter the clearing beneath a giant tree with glowing amber seed pods. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
+END FRAME: Both characters have reached the giant tree's glowing seed-pod clearing; export this actual final frame for Part 05. No fade.
 
 ```
 
@@ -312,8 +343,16 @@ SHOT 5 | 20-25s | AERIAL FOLLOW; chase circles the giant tree beneath glowing ca
 24-25s: Both race toward the rocky passage as water grows louder.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | Into the Rock Passage
+25-26s: Panda slips between two boulders at the edge of the clearing.
+26-27s: Child rushes after it, pollen sparkling on the gray outfit.
+27-28s: Camera lowers toward the dark rocky passage and reveals the narrow trail.
+28-29s: Panda's silhouette crosses the entrance as water roars in the distance.
+29-30s: Child follows into the rocky passage; end on a stable forward-moving frame for Part 06.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
-END FRAME: Both race into a dark rocky passage while the sound of rushing water grows louder. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
+END FRAME: Both characters are entering the rocky passage; export this actual final frame for Part 06. No fade.
 
 ```
 
