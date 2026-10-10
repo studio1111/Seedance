@@ -1,39 +1,51 @@
-SEEDANCE 2.5 — VIDEO 03 — 30 SECONDS
+SEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
+Character lock: child reference "sakhi.Refernce.jpg", exact one-year-old identity and gray outfit; panda reference "panda-reference.png", one living expressive panda with consistent markings. Bright toy foam poppers produce harmless colorful foam only. Magical seed-pod bursts scatter pollen and leaves away from characters. No injuries, gore, realistic weapons or harm to panda.
+Camera: purposeful 24–85mm lens choices, clear geography, stable screen direction, motivated tracking and brief slow motion. Audio: original orchestral comedy-action score, forest ambience, foam splats, rope and foliage foley; no dialogue, text, logo or watermark.
 
-REFERENCE DECLARATION:
-Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Start from the actual final frame of Part 02. Same ice-cream cup and same neighborhood.
+PART 03: The River Trick
+SCENE INTENTION: Panda exploits reflections, stepping stones and a floating log to outsmart the child beside a lively forest stream.
+START FRAME: Use the actual final frame exported from Part 02 as the exact first frame, plus both character references.
+EXACT SECOND-BY-SECOND TIMELINE. Each row covers that one-second interval; do not reorder or skip.
 
-GLOBAL STYLE:
-Photorealistic physical comedy-action, realistic weight, 24fps, 16:9, controlled kinetic camera.
+SHOT 1 | 0-5s | WIDE 24mm river reveal; stepping stones form a zigzag crossing.
+00-01s: Panda hops stone to stone with cone raised like a torch.
+01-02s: Child tests a stone with one finger; it wobbles.
+02-03s: The stone tips and gently splashes child to the chest.
+03-04s: Panda offers a sympathetic nod from midstream.
+04-05s: Child's wet fringe flattens into a ridiculous straight line.
+At 5s, cut on movement and preserve screen direction.
 
-SCENE / INTENTION:
-The panda uses the environment as an escape route. The child cannot copy every move, so the chase becomes a believable game of route choice.
+SHOT 2 | 5-10s | WATERLINE TRACK 35mm; panda bounds along the bank.
+05-06s: Child sends a foam blob at a rock, making a harmless bright splat.
+06-07s: Panda ducks behind spray in slow motion.
+07-08s: The glob hits a vine; droplets fall like crystal beads.
+08-09s: Panda exits behind the spray.
+09-10s: Child emerges dripping, blinks water from eyes, resumes pursuit.
+At 10s, cut on movement and preserve screen direction.
 
-FIRST FRAME + BLOCKING:
-Start exactly where Part 02 ends, preserving screen direction and distance.
+SHOT 3 | 10-15s | TOP-DOWN 35mm; panda balances on a floating log.
+10-11s: Log rotates; panda spreads arms to counterbalance the cone.
+11-12s: Child jumps onto the log; it rolls half a turn.
+12-13s: Both slide in opposite directions as camera rotates with log.
+13-14s: Panda springs safely to shore; child slips into soft mud.
+14-15s: Child sits crowned with mud, stunned but unharmed.
+At 15s, cut on movement and preserve screen direction.
 
-SHOT-BY-SHOT:
-0-5s, low forward tracking: panda races between the established parked cars, cup held tight against its chest.
-5-10s, lateral vehicle shot: panda climbs onto one hood, crosses the roof with three quick paw placements, then drops down. Its belly compresses slightly on landing.
-10-15s, low child follow: child reaches the cars, tries the direct route, stops at the bumper, then turns around the front. Hands and knees maintain continuous ground contact.
-15-20s, medium wide: panda reaches the low wall, places both paws on the top edge, pulls its body over, pauses to regain balance, then continues toward the rooftop staircase.
-20-25s, close-to-wide transition: child reaches the same wall, attempts to pull up, slips one hand, sits back safely, spots the opening beside the wall and takes that route instead.
-25-30s, staircase follow: panda climbs the exact rooftop staircase, looking back once. Child enters the bottom of the staircase and begins climbing.
+SHOT 4 | 15-20s | GIMBAL FOLLOW 28mm; panda ducks beneath a low root arch.
+15-16s: Child's foam popper catches on a root; child tugs.
+16-17s: Root flexes and releases with a springy snap.
+17-18s: Child tumbles through ferns onto a moss mattress.
+18-19s: Panda peeks out and mimics the child's scowl.
+19-20s: Child points and crawls up the steep trail.
+At 20s, cut on movement and preserve screen direction.
 
-CAMERA / OPTICS:
-Low tracking for pursuit, lateral vehicle coverage for the panda's car movement, wide reveal for the wall and staircase, close follow behind child on stairs.
+SHOT 5 | 20-25s | LONG LENS 70mm; both race uphill through layered foliage.
+20-21s: Panda kicks pinecones that bounce across the path like bowling balls.
+21-22s: Child dodges one, crawls over another, backpack bumped gently by a third.
+22-23s: Child stands for two wobbly steps, windmills arms, then crawls again.
+23-24s: Both crest the hill into a sunlit clearing.
+24-25s: A rope bridge and huge old tree appear ahead.
+At 25s, cut on movement and preserve screen direction.
 
-PHYSICS / CONTACT:
-Panda's paws visibly grip surfaces. Body weight shifts before every climb and landing. Child's center of gravity remains low. No flying or impossible jumps.
-
-LIGHTING:
-Same sun direction. Stairwell and rooftop transition retain natural exposure.
-
-AUDIO:
-Music adds playful urgency; paw impacts, fabric/plush sounds, concrete contacts, distant Tehran ambience and light rooftop wind.
-
-HANDOFF:
-Final frame holds panda near the top of the staircase and child partway up, both moving in the same direction. Part 04 starts from this exact frame.
-
-NEGATIVE:
-No extra characters, no impossible climbing, no duplicate props, no environment drift, no cartoon physics, no identity or wardrobe change.
+NEGATIVE LOCKS: no realistic weapons, actual bullets, injury, gore, panda impact, duplicate characters, face/age/outfit drift, extra limbs, random camera shake, teleporting, captions, logos or watermarks.
+END FRAME: Both crest the hill into a clearing where the rope bridge becomes visible. Keep a stable readable handoff composition; export the actual final frame and use it as the next clip's start frame. No fade.
