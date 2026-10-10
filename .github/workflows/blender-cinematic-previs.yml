@@ -1,0 +1,45 @@
+name: Blender Cinematic Previs
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: blender-cinematic-previs
+  cancel-in-progress: false
+
+jobs:
+  build-and-render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install Blender and FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y blender ffmpeg
+          blender --version
+
+      - name: Generate ten-scene Blender project
+        working-directory: seedance-300s-film/blender-previs
+        run: |
+          blender -b -t 2 --python build_animatic.py
+          test -s output/the_vanishing_panda_previs.blend
+
+      - name: Render low-resolution proxy clips
+        working-directory: seedance-300s-film/blender-previs
+        run: |
+          blender -b -t 2 output/the_vanishing_panda_previs.blend --python render_previews.py
+          ls -lh output
+
+      - name: Upload Blender project and proxy videos
+        uses: actions/upload-artifact@v4
+        with:
+          name: the-vanishing-panda-blender-previs
+          path: seedance-300s-film/blender-previs/output/
+          if-no-files-found: error
+          retention-days: 30
