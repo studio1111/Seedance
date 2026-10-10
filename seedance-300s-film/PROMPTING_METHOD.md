@@ -1,60 +1,43 @@
-# Seedance 2.5 Prompting Method — Project Standard
+# Seedance 2.5 Prompting Method — Production Standard
 
-This project uses shot choreography instead of one long undifferentiated action paragraph.
+This film uses six five-second shot blocks per clip, with a distinct action beat for every second. The structure follows Seedance 2.5 guidance for labeled prompt sections, continuous timelines, asset roles and camera language, combined with general virtual-camera and composition principles taught in Pixar in a Box. This is an original production approach, not an imitation of any studio's proprietary look.
 
-## Evidence-based structure
+## Prompt architecture
+1. Global visual style and output format.
+2. Locked character references and identity constraints.
+3. Scene intention and emotional turn.
+4. Exact start-frame state and continuity handoff.
+5. Six shot blocks, each with camera setup and five one-second beats.
+6. Audio cues, negative locks and exact final-frame instruction.
 
-Higgsfield's Seedance 2.5 prompting guidance recommends labeled sections, explicit first-frame blocking, shot-by-shot choreography, camera movement, physics, lighting and audio. ByteDance's Seedance 2.5 launch material demonstrates timestamped action, blocking and camera trajectories and supports reference-driven generation and multi-round extension.
+## Cinematography rules
+- 24–28mm: establish geography, track action, create parallax.
+- 35–50mm: readable physical comedy and medium action.
+- 70–85mm: compress distance, isolate expressions and create emotional close-ups.
+- Every camera movement must be motivated by character or action.
+- Establish screen direction and landmarks before accelerating.
+- Use speed ramps sparingly and return clearly to normal speed after slow motion.
+- Avoid random camera shake and confusing cuts.
 
-## Production sequence
+## Timeline rules
+- Exactly 30 seconds per clip.
+- Six five-second shot blocks cover the whole clip.
+- Each block contains five one-second beats, with no timeline gaps.
+- One dominant action per second; every beat has a visible cause and result.
 
-1. Generate Part 01 from the canonical child, panda and environment references.
-2. Extract the actual final frame.
-3. Use that real frame as the start-frame reference for Part 02.
-4. Repeat through Part 10.
-5. Keep canonical identity references active in every generation.
-6. Never invent a future start or end frame.
+## Continuity protocol
+Part 1 uses the child and panda reference images. For each later part, use the actual final frame exported from the previous clip as the exact start frame, plus both character references. Never invent a frame. Preserve pose, camera, screen direction, lighting, outfit, props and movement.
 
-## Prompt order
+## Family-safe action design
+The child uses colorful toy foam props; large bursts are magical seed-pod fireworks. No injury, gore, realistic weapons or harm to panda. Debris and leaves always move away from characters.
 
-REFERENCE DECLARATION -> GLOBAL STYLE -> SCENE/INTENTION -> FIRST FRAME/BLOCKING -> SHOT-BY-SHOT TIMELINE -> CAMERA/OPTICS -> PHYSICS/CONTACT -> LIGHTING -> AUDIO -> CONTINUITY/HANDOFF -> NEGATIVE LOCKS.
-
-## Motion choreography
-
-- Give each shot one primary action and one primary camera move.
-- Make actions causal: perception -> decision -> acceleration -> contact -> reaction -> recovery.
-- Describe body mechanics, contact points, inertia, friction and recovery instead of vague words such as "epic".
-- The one-year-old child primarily crawls. Walking attempts are brief, unstable and physically plausible.
-- The plush panda moves with visible weight. Its soft body compresses on contact and rebounds naturally.
-- Keep important contacts visible: hands on ground, feet on surfaces, hands gripping props, panda body contacting the ground or wall.
-- Use motivated camera movement that follows the action rather than hiding it.
-- Use close-ups only for decisive details.
-- Prefer practical-looking effects: dust, cardboard, soft plush deformation and lightweight breakaway material.
-- Do not stack several difficult stunts into one shot.
-
-## 30-second pacing
-
-Use about 5-7 shots per part. Each shot has a defined start pose, action and endpoint. Allow acceleration, reaction and recovery to take real time.
-
-## Continuity
-
-The final shot must create a stable handoff composition. The next part begins from the exact generated final frame.
-
-## Reference economy
-
-Use one deliberate reference per identity-critical element:
-- Child: sakhi.Refernce.jpg
-- Panda: panda-reference.png
-- Environment: environment-references/environment-design.md
-
-## Realism locks
-
-Keep the same sun direction, time of day, architecture, parked vehicles when reused, street geometry, wardrobe, scale, prop appearance and camera grammar. No teleportation, duplicate objects, unexplained jumps, magical facial changes or age changes.
-
-## Audio
-
-Keep one continuous musical identity across the film. Add specific diegetic effects only where they reinforce visible action.
-
-## Iteration
-
-If a clip fails, change one major variable at a time: choreography, reference/start frame, or camera instruction.
+## QC checklist
+- [ ] Clip duration exactly 30 seconds.
+- [ ] Six shots and all 30 second-by-second beats are present.
+- [ ] Child identity, age, outfit and toddler movement are stable.
+- [ ] Panda markings, scale and movement are stable.
+- [ ] Screen direction and geography remain clear.
+- [ ] Camera movement is motivated and readable.
+- [ ] Audio supports action without dialogue or text.
+- [ ] No injury, gore, text, logo or watermark.
+- [ ] Actual last frame is used as the next clip's first frame.
