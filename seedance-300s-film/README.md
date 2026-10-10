@@ -1,38 +1,15 @@
-# Seedance 2.5 — 300 Second Continuous Film
+# The Vanishing Panda — Seedance 2.5
 
-10 videos x 30 seconds = exactly 300 seconds.
+A 300-second original cinematic family action-comedy in ten connected 30-second clips. The child follows a clever panda through a bamboo forest, stream, rope bridge, magical glowing seed-pod fireworks, rocky ridge and river canyon. The panda disappears into the river, leaving the child staring down in furious disbelief.
 
-## Master Prompt
+## Prompts
+Use `01/prompt.txt` through `10/prompt.txt` for individual clips. `MASTER_PROMPT.md` and `MASTER_PROMPT.txt` contain the complete set. `MASTER_CONTINUITY.md` documents the frame handoff process. `PROMPTING_METHOD.md` explains camera, timeline and quality control.
 
-The complete unified production instructions are in `MASTER_PROMPT.md` and `MASTER_PROMPT.txt`. Both contain the global continuity rules and the full definition of all ten 30-second parts. `MASTER_PROMPT.txt` is the plain-text version for direct copy/paste into a video-generation workflow.
+## References
+- Child: `sakhi.Refernce.jpg`
+- Panda: `panda-reference.png`
 
-## Reference Assets
+Use both character references for every clip. For Parts 2–10, attach the actual last frame exported from the immediately preceding clip as the exact first frame. Never invent the handoff image.
 
-`sakhi.Refernce.jpg` = canonical child identity reference.
-`panda-reference.png` = canonical panda identity reference.
-
-Character locks are documented in:
-- `child-reference/REFERENCE_INFO.md`
-- `panda-reference/REFERENCE_INFO.md`
-
-The environment is documented in:
-- `environment-references/environment-design.md`
-
-The Seedance 2.5 prompting and motion-choreography standard is documented in:
-- `PROMPTING_METHOD.md`
-
-## Generation Order
-
-Generate exactly in order: **01 → 02 → 03 → 04 → 05 → 06 → 07 → 08 → 09 → 10**.
-
-## Real-Frame Continuity
-
-Video 01 starts from the fixed character and environment references. After each video is actually generated, extract its **real final frame** and use that exact frame as the opening reference for the next video. Never invent future start or end frames in advance.
-
-Keep `sakhi.Refernce.jpg` active as the child identity reference and `panda-reference.png` active as the panda identity reference in every generation.
-
-## Final Runtime
-
-**10 × 30 seconds = exactly 300 seconds.**
-
-The goal is one continuous photorealistic cinematic comedy-action film, not ten unrelated clips.
+## Visual direction
+Original premium 3D family-animation craft, expressive character acting, motivated cinematic camera moves, precise action timing, coherent geography, magical nonlethal visual effects, no injury, no gore, no text or watermark.
