@@ -47,5 +47,13 @@ SHOT 5 | 20-25s | HIGH ANGLE CRANE; panda reaches a fork by a glittering stream.
 24-25s: Panda crosses the far bank, keeping the same screen direction.
 At 25s, cut on movement and preserve screen direction.
 
+SHOT 6 | 25-30s | The Stream Fork
+25-26s: Child rushes back from the wrong trail, brushing leaves from the gray outfit.
+26-27s: Panda lands on the far bank and pauses beside the stream.
+27-28s: Camera pans to reveal stepping stones and the bright water crossing.
+28-29s: Child reaches the near bank, still crawling quickly.
+29-30s: Panda turns toward the stepping stones; hold a clear wide composition for Part 03.
+At 30s, cut on movement and preserve screen direction.
+
 NEGATIVE LOCKS: no realistic weapon, no actual bullets, no injury or panda impact, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no captions, no logo, no watermark.
-END FRAME: Panda has reached the stream fork while child rushes back from the dead-end; compose a stable frame to begin Part 03. Export the actual last frame. No fade.
+END FRAME: Panda stands at the stream crossing and child reaches the near bank; export this actual final frame for Part 03. No fade.
