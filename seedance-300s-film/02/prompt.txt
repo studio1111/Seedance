@@ -1,39 +1,51 @@
-SEEDANCE 2.5 — VIDEO 02 — 30 SECONDS
+SEEDANCE 2.5 | original premium 3D family action-comedy | exactly 30 seconds | 16:9 | 24fps.
+Character lock: child reference "sakhi.Refernce.jpg", exact one-year-old identity and gray outfit; panda reference "panda-reference.png", one living expressive panda with consistent markings. Bright toy foam poppers produce harmless colorful foam only. Magical seed-pod bursts scatter pollen and leaves away from characters. No injuries, gore, realistic weapons or harm to panda.
+Camera: purposeful 24–85mm lens choices, clear geography, stable screen direction, motivated tracking and brief slow motion. Audio: original orchestral comedy-action score, forest ambience, foam splats, rope and foliage foley; no dialogue, text, logo or watermark.
 
-REFERENCE DECLARATION:
-Child: sakhi.Refernce.jpg. Panda: panda-reference.png. Use the actual final frame of Video 01 as the immediate start frame. Preserve the same cup and same Tehran street.
+PART 02: Bamboo Foam Ballet
+SCENE INTENTION: A bamboo maze turns the pursuit into a rhythmic ballet of harmless foam splats, slow-motion dodges, vine swings and comic misfires.
+START FRAME: Use the actual final frame exported from Part 01 as the exact first frame, plus both character references. Preserve camera, pose, screen direction, lighting and props.
+EXACT SECOND-BY-SECOND TIMELINE. Each row covers that one-second interval; do not reorder or skip.
 
-GLOBAL STYLE:
-Photorealistic live-action comedy chase, grounded physics, 24fps, 16:9, realistic camera inertia and motion blur. Keep the exact visual grade and sunlight from Part 01.
+SHOT 1 | 0-5s | LOW TRACK 24mm; child crawls quickly between bamboo trunks.
+00-01s: Panda zigzags and glances back with a cheeky grin.
+01-02s: Child sends a foam blob toward a broad leaf, not panda.
+02-03s: Leaf springs back and showers child with dew.
+03-04s: Panda vaults a log; camera whip-pans after it.
+04-05s: Child crawls over the same log and nearly loses the helmet.
+At 5s, cut on movement and preserve screen direction.
 
-SCENE / INTENTION:
-The panda gains distance through clever movement while the child closes the gap through persistent crawling. The sequence should feel like one continuous pursuit, not a montage of unrelated stunts.
+SHOT 2 | 5-10s | LATERAL TRACK 35mm; panda darts between close trunks.
+05-06s: Child raises the foam popper; panda ducks behind bark.
+06-07s: A foam blob crosses frame in slow motion, droplets glittering.
+07-08s: Panda bends backward beneath it, missing by centimeters.
+08-09s: Speed returns; blob splats on a mushroom.
+09-10s: Mushroom wobbles like a drum; panda's shoulders shake with silent laughter.
+At 10s, cut on movement and preserve screen direction.
 
-FIRST FRAME + BLOCKING:
-Start exactly on the actual final frame of Part 01. Panda is ahead holding the cup; child is behind on hands and knees. Preserve their screen direction.
+SHOT 3 | 10-15s | MACRO 85mm; panda grips a vine, cone balanced in other paw.
+10-11s: Panda swings across a narrow muddy channel.
+11-12s: Child copies the move and grabs a thinner vine.
+12-13s: Vine stretches and gently lowers child into a leaf pile.
+13-14s: Child rises with a leaf under the nose like a mustache.
+14-15s: Panda bows mockingly and bolts onward.
+At 15s, cut on movement and preserve screen direction.
 
-SHOT-BY-SHOT:
-0-5s, rear tracking: panda accelerates, glances over its shoulder, then looks forward again. Its short legs work faster and the plush belly oscillates naturally.
-5-10s, low side track: child crawls rapidly with alternating hand-knee contacts. The child briefly pushes up to standing using the side of a parked car, takes two uncertain steps, wobbles, sits safely, then immediately resumes crawling.
-10-15s, vehicle-level tracking: panda reaches the same parked car, places both paws on the hood, climbs using visible contact, crosses the roof and drops to the far side. The car remains stationary.
-15-20s, low child follow: child reaches the car, looks up at the roof, decides not to climb, crawls around the front bumper and emerges on the other side.
-20-25s, medium telephoto: panda looks back, sees the child unexpectedly close, hugs the cup to its belly and accelerates toward the established side street.
-25-30s, forward tracking: panda enters the side street. Child rounds the parked car and follows in the same direction. The side street fills the frame.
+SHOT 4 | 15-20s | FAST DOLLY 28mm; both race through a bamboo corridor.
+15-16s: Panda slides under a leaning stalk; it rebounds behind.
+16-17s: Child crawls beneath it; helmet catches then pops free.
+17-18s: A foam blob hits a rotten stump; it crumbles into soft stylized chunks.
+18-19s: The stump's round top rolls after child like a wheel.
+19-20s: Child dodges sideways; stump stops harmlessly in moss.
+At 20s, cut on movement and preserve screen direction.
 
-CAMERA / OPTICS:
-One primary move per shot: rear follow, side track, vehicle track, child follow, telephoto reaction, forward chase. No random drone movement.
+SHOT 5 | 20-25s | HIGH ANGLE CRANE; panda reaches a fork by a glittering stream.
+20-21s: Child arrives and finds muddy pawprints on both branches.
+21-22s: Child confidently picks the wrong trail into a dead-end thicket.
+22-23s: A squirrel points its tail toward the stream; child salutes it.
+23-24s: Child pivots and charges back through leaves.
+24-25s: Panda crosses the far bank, keeping the same screen direction.
+At 25s, cut on movement and preserve screen direction.
 
-PHYSICS / CONTACT:
-Car supports panda's weight; paws grip edges before the panda climbs. Child never climbs the car. Walking attempt is unstable and short. No impossible acceleration.
-
-LIGHTING:
-Same sunny daylight, same shadow direction, no color-temperature change.
-
-AUDIO:
-Same musical theme with faster percussion; soft paw impacts, child hand-knee contacts, fabric movement, car roof contact and Tehran ambience. No dialogue.
-
-HANDOFF:
-Final frame: panda has just entered the side street, child is approaching the same turn. Part 03 begins from this exact generated frame.
-
-NEGATIVE:
-No extra people, animals, cars, duplicate cup, identity drift, wardrobe drift, age change, flying, superhero motion, camera teleportation, text or logos.
+NEGATIVE LOCKS: no realistic weapon, no actual bullets, no injury or panda impact, no duplicate characters, no face/age/outfit drift, no extra limbs, no random camera shake, no teleporting, no captions, no logo, no watermark.
+END FRAME: Panda has reached the stream fork while child rushes back from the dead-end; compose a stable frame to begin Part 03. Export the actual last frame. No fade.
